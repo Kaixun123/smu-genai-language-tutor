@@ -1,0 +1,719 @@
+id,word,reading,level,type,subtype,primary_meanings,sentence_ja,sentence_en,kanji_frequency_difficulty,kanji_usage_difficulty,kanji_in_n5_list
+1,嗚呼,ああ,N5,word,,ah!; oh!; alas!,ああ、なるほど！,"Ah, gotcha!",9,9,false
+2,会う,あう,N5,word,,to meet; to encounter; to see,前に彼にあったのを覚えている。,I remember seeing him before.,2,3,false
+3,青,あお,N5,word,,blue; azure; green,信号が青に変わったわよ。,The traffic light turned green.,7,6,false
+4,青い,あおい,N5,word,,blue; azure; green,お前はまだ「青い」な。,You're still green.,7,6,false
+5,赤,あか,N5,word,,red; crimson; scarlet,信号機が赤の間は道路を渡るな。,Don't cross the road when the signal is red.,7,5,false
+6,赤い,あかい,N5,word,,red; crimson; scarlet,彼女は赤いスカートをはいていた。,She was wearing a red skirt.,7,5,false
+7,明るい,あかるい,N5,word,,light; bright; well-lit,ダイヤは明るく光った。,The diamond shone brightly.,4,5,false
+8,時,とき,N5,word,,time; hour; moment,１２才の時彼は声変わりした。,His voice broke when he was twelve.,2,3,true
+9,開く,ひらく,N5,word,,to open; to undo; to unseal,庭のバラの木のつぼみが少しずつ開き始める。,"Little by little, the buds on the rosebush in my garden begin to open.",4,5,false
+10,開ける,あける,N5,word,,"to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",財布の中身をこの袋に空けなさい。,Empty the purse into this bag.,4,5,false
+11,上げる,あげる,N5,word,,to raise; to elevate; to move something (to a higher place),解き方を教えてあげるよ。,I will show you how to solve it.,2,3,true
+12,朝,あさ,N5,word,,morning; breakfast,６月にしては寒い朝だ。,It is a cold morning for June.,4,6,false
+13,朝ごはん,あさごはん,N5,word,,breakfast,朝ごはんにはなにがよろしいですか。,What would you like for breakfast?,4,6,false
+14,明後日,あさって,N5,word,,day after tomorrow; wrong (e.g. direction),あさって彼にここへ来てもらうつもりです。,I will have him come here the day after tomorrow.,5,6,false
+15,足,あし,N5,word,,"foot; paw; arm (of an octopus, squid, etc.)",また足がしびれた。,My foot's asleep again!,7,5,false
+16,明日,あした,N5,word,,tomorrow; near future,あしたは一日中ひまです。,I'll be free all day tomorrow.,4,5,false
+17,彼処,あそこ,N5,word,,there; over there; that place,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch.",8,8,false
+18,遊ぶ,あそぶ,N5,word,,"to play (games, sports); to enjoy oneself; to have a good time",その機械は今遊んでいる。,The machine is lying idle.,9,6,false
+19,暖かい,あたたかい,N5,word,,warm; mild; (pleasantly) hot,だんだん暖かくなります。,It will get warmer and warmer.,9,8,false
+20,頭,とう,N5,word,,"counter for large animals (e.g. head of cattle); counter for insects in a collection; counter for helmets, masks, etc.",鹿は１頭だけで走っていた。,The deer was running by itself.,4,5,false
+21,新しい,あたらしい,N5,word,,new; novel; fresh,あなたの新しい車は調子よく動いていますか。,Is your new car behaving well?,4,5,false
+22,彼方,あちら,N5,word,,that way; that direction; over there,あちらが私の待っていた人です。,That's the person I've been waiting for.,4,6,false
+23,暑い,あつい,N5,word,,hot; warm; sultry,この夏最高の暑さだ。,It is the hottest this summer.,9,8,false
+24,熱い,あつい,N5,word,,"hot (to the touch); passionate (feelings, etc.); ardent",スープは熱いうちに召し上がって下さい。,Eat your soup while it is hot.,9,6,false
+25,厚い,あつい,N5,word,,thick; deep; heavy,氷は２インチの厚さだ。,The ice is two inches thick.,9,8,false
+26,彼方,あちら,N5,word,,that way; that direction; over there,あちらが私の待っていた人です。,That's the person I've been waiting for.,4,6,false
+27,後,あと,N5,word,,behind; rear; after,あと２通手紙を書かなくてはならない。,I have another two letters to write.,2,5,true
+28,貴方,あなた,N5,word,,you; dear; honey,ねえあなたたち行かないで。,"Don't go, dears.",7,6,false
+29,兄,あに,N5,word,,older brother; elder brother; brother-in-law (spouse's older brother or older sister's husband),私の兄は技師になった。,My brother became an engineer.,9,8,false
+30,姉,あね,N5,word,,older sister; elder sister,姉は私のズボンにアイロンをかけてくれる。,My sister presses my trousers.,9,8,false
+31,アパート,アパート,N5,word,,apartment building; apartment block; apartment house,このアパートは６家族が暮らしている。,Six families live in this apartment house.,,,false
+32,彼の,あの,N5,word,,that; those; the,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?,4,8,false
+33,浴びる,あびる,N5,word,,to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun),屋根は日を浴びて輝いている。,The roof is shining in the sun.,9,8,false
+34,危ない,あぶない,N5,word,,dangerous; risky; hazardous,彼の命が危ない。,His life is in danger.,9,8,false
+35,甘い,あまい,N5,word,,sweet-tasting; sweet; sugary,ゆりは甘い香りがする。,Lilies smell sweet.,9,8,false
+36,余り,あまり,N5,word,,remainder; remnant; rest,それはあまり価値がない。,It's not worth much.,9,6,false
+37,雨,あめ,N5,word,,rain; rainy day; rainy weather,雨のために彼らは気力をそがれた。,The rain dampened their spirits.,9,6,true
+38,飴,あめ,N5,word,,(hard) candy; toffee; rice-sugar,息子は箱から飴を一つ取った。,My son took a candy from the box.,9,9,false
+39,洗う,あらう,N5,word,,to wash; to cleanse; to rinse,そのバッグを洗うときは洗濯機に入れないでください。,"When you wash the bag, please do not put it in the washing machine.",9,8,false
+40,有る,ある,N5,word,,to be; to exist; to live,悪いけどほかに用事があるの。,"I'm sorry, I have another engagement.",7,5,false
+41,有る,ある,N5,word,,to be; to exist; to live,悪いけどほかに用事があるの。,"I'm sorry, I have another engagement.",7,5,false
+42,歩く,あるく,N5,word,,to walk,歩いて行きますか？それともバスで行きますか？,Will you go on foot or by bus?,7,6,false
+43,彼,あれ,N5,word,,that; that thing; that person,あれがこの町の大通りだ。,That is the main street of this city.,4,8,false
+44,いい,いい,N5,word,,good; excellent; fine,５時までにもどるなら行ってもいいよ。,You may go on condition that you return by five.,,,false
+45,いいえ,いいえ,N5,word,,no; you're welcome; not at all,「机の中に本がありますか」「いいえ、ありません」,"""Is there a book in the desk?"" ""No, there isn't.""",,,false
+46,言う,いう,N5,word,,to say; to utter; to declare,「みんなひと休みしようぜ」とジョンは言った。,"John said, ""Hey guys, let's take a break.""",2,3,false
+47,家,いえ,N5,word,,house; residence; dwelling,木立の間に家が見える。,I see a house among the trees.,2,3,false
+48,如何,いかが,N5,word,,how; in what way; how about,コンタクトを入れるというのはいかがでしょう？,How about wearing contact lenses?,8,8,false
+49,行く,いく,N5,word,,to go; to move (towards); to head (towards),その音はだんだん小さくなっていった。,The sound grew fainter and fainter.,2,2,true
+50,幾つ,いくつ,N5,word,,how many; how old,あなたのお父さんはおいくつですか。,How old is your father?,9,8,false
+51,幾ら,いくら,N5,word,,how much; something over; and something,このハンカチはいくらですか。,How much is this handkerchief?,9,8,false
+52,池,いけ,N5,word,,pond,この前の夏にこの池は水がなくなりました。,The pond dried up last summer.,9,8,false
+53,医者,いしゃ,N5,word,,doctor; physician,医者は彼の折れた足をついだ。,The doctor set his broken leg.,5,5,false
+54,椅子,いす,N5,word,,chair; seat; stool,ちょっと椅子をずらしてくれない？,Could you move the chair a bit?,7,6,false
+55,忙しい,いそがしい,N5,word,,busy; occupied; hectic,あいつはのらりくらりの仕事にお忙しい事だ。,He is busy loafing on the job.,9,9,false
+56,痛い,いたい,N5,word,,painful; sore; cringy,噛むと痛いですか。,Does it hurt when you chew?,9,8,false
+57,一,いち,N5,word,,one; 1; best,卵を一ダースづつつめなさい。,Pack eggs in dozens.,2,2,true
+58,一日,いちにち,N5,word,,one day; all day (long); the whole day,私のｅ―ｍａｉｌアドレスは４月１日より下記になります。,My e-mail address will be as follows effective April 1.,3,3,true
+59,一番,いちばん,N5,word,,number one; first; first place,このネクタイにしましょう、一番よさそうだから。,"I will take this tie, as it seems to be the best.",5,5,false
+60,何時,いつ,N5,word,,when; at what time; how soon,いつ旅行においでになりますか。,When will you go on a journey?,4,6,true
+61,５日,いつか,N5,word,,5th day of the month; five days,三日から五日で。,Maybe three to five days.,2,3,true
+62,一緒,いっしょ,N5,word,,(doing) together; one lump; one mixture,「ご一緒してもいいですか」「もちろんです」,"""May I go with you?"" ""Of course.""",7,6,false
+63,五つ,いつつ,N5,word,,five; five years of age; eight o'clock (old time system),この箱にはリンゴが五つ入っている。,This box contains five apples.,4,6,true
+64,何時も,いつも,N5,word,,always; all the time; at all times,彼はいつも学校に遅れる。,He is always late for school.,4,6,true
+65,犬,いぬ,N5,word,,dog (Canis (lupus) familiaris); canine; squealer,彼女は吠える犬を怖がる。,She is afraid of barking dogs.,9,6,false
+66,今,いま,N5,word,,now; the present time; just now,今のアナウンスは何だったのですか。,What did the announcement just say?,4,6,true
+67,意味,いみ,N5,word,,meaning; significance; sense,その語にはいくつかの意味がある。,The word has several meanings.,5,6,false
+68,妹,いもうと,N5,word,,younger sister,あのかわいい少女は私の妹です。,That pretty girl is my sister.,9,9,false
+69,嫌,いや,N5,word,,disliking; not wanting; unwilling (to do),この卵は嫌な匂いがする。,This egg has a bad smell.,9,8,false
+70,入り口,いりぐち,N5,word,,entrance; entry; gate,１台の車が入り口に止まった。,A car stopped at the entrance.,4,5,false
+71,居る,いる,N5,word,,to be (of animate objects); to exist; to stay,すっかり食べ終わってはいない。,I haven't quite finished eating.,7,6,false
+72,要る,いる,N5,word,,to be needed; to be necessary; to be required,今のところお金はいらない。,I don't need money at present.,4,6,false
+73,入れる,いれる,N5,word,,to put in; to let in; to take in,留学生も入れるのかしら。,Can foreign students be in the club?,2,3,true
+74,色,いろ,N5,word,,colour; color; hue,満足の色が彼の顔に浮かんだ。,A look of contentment appeared on his face.,7,5,false
+75,色々,いろいろ,N5,word,,various; a variety of; all sorts of,いろいろな国へ行ったがやっぱり日本が一番いい。,"I've visited many countries, but I like Japan best of all.",7,5,false
+76,上,うえ,N5,word,,above; over; up,机の上に本があります。,There is a book on the desk.,2,3,true
+77,後ろ,うしろ,N5,word,,back; behind; rear,後ろを刈り上げてください。,I want it tapered in the back.,2,5,true
+78,薄い,うすい,N5,word,,thin (of an object); pale; light,肉を薄く切りなさい。,Cut the meat into thin slices.,9,6,false
+79,歌,うた,N5,word,,song; singing; classical Japanese poem (esp. tanka),この歌を聞くと私はいつも、学生時代を思い出す。,"Whenever I hear this song, I am reminded of my school days.",7,6,false
+80,歌う,うたう,N5,word,,"to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem",ジョンはステージで何を歌いましたか。,What did John sing on the stage?,7,6,false
+81,家,うち,N5,word,,one's house; one's home; one's family,うちには十頭の牛がいる。,We have ten cattle.,2,3,false
+82,生まれる,うまれる,N5,word,,to be born,あなたは何座生まれですか。,What sign were you born under?,2,2,true
+83,海,うみ,N5,word,,sea; ocean; waters,何としても海をひと目みたいものだ。,I ache for a sight of the sea.,4,5,false
+84,売る,うる,N5,word,,"to sell; to betray; to sell out (one's friend, country, etc.)",ガソリンはリットル単位で売られる。,Gasoline is sold by the liter.,7,6,false
+85,煩い,うるさい,N5,word,,noisy; loud; annoying,あの子はなんてうるさい子だろう。,What a nuisance that child is!,9,9,false
+86,上着,うわぎ,N5,word,,coat; jacket; outerwear,男性の方は上着を着用してください。,Jackets are requested for men.,5,5,false
+87,絵,え,N5,word,,picture; drawing; painting,あの絵を壁に掛けなさい。,Hang that picture on the wall.,9,6,false
+88,映画,えいが,N5,word,,movie; film; motion picture,その映画をもう一度見たいな。,I want to see the movie again.,7,7,false
+89,映画館,えいがかん,N5,word,,movie theatre; movie theater; cinema,その映画館は人々でいっぱいだった。,The cinema was filled with people.,9,9,false
+90,英語,えいご,N5,word,,English (language),アメリカでは英語を話します。,They speak English in America.,7,6,false
+91,ええ,ええ,N5,word,,yes; that is correct; right,君、ええ仕事をしてるな。,You're doing good work there.,,,false
+92,駅,えき,N5,word,,railway station; train station; staging post on a highway (in pre-modern Japan),グランド・セントラル駅までやってください。,"Grand Central Station, please.",9,8,false
+93,エレベーター,エレベーター,N5,word,,elevator; lift; elevator,エレベーターの中でのタバコはご遠慮下さい。,You may not smoke in an elevator.,,,false
+94,～円,～えん,N5,grammar_pattern,currency,Yen,,,,,false
+95,鉛筆,えんぴつ,N5,word,,pencil,ペンか鉛筆を持っていますか。,Do you have a pen or a pencil?,10,8,false
+96,お～,お～,N5,grammar_pattern,prefix,honorable ~ (honorific),,,,,false
+97,美味しい,おいしい,N5,word,,good(-tasting); nice; delicious,おいしい食事をありがとう。,Thanks for the delicious meal.,5,7,false
+98,多い,おおい,N5,word,,many; numerous; a lot,２０代の若い女性の中には、夏休みに海外旅行にでたいと思う人も多い。,Many young women in their 20s plan to go abroad during their summer holidays.,4,5,false
+99,大きい,おおきい,N5,word,,big; large; great,もっと大きい声で言ってください。,"Louder, please.",2,2,true
+100,大きな,おおきな,N5,word,,big; large; great,アメリカ人の中には大きな借金を抱えている人がいる。,Some Americans have grave debts.,2,2,true
+101,大勢,おおぜい,N5,word,,crowd of people; great number of people; in great numbers,そこには大勢の人がいた。,There was a large crowd there.,5,5,false
+102,お母さん,おかあさん,N5,word,,mother; mom; mum,お母さんに口答えしてはいけませんよ。,Don't answer your mother back.,7,6,true
+103,お菓子,おかし,N5,word,,confections; sweets; candy,お菓子で赤ちゃんが窒息するところだった。,The baby almost choked on a piece of candy.,7,6,false
+104,お金,おかね,N5,word,,money,どうやってそのお金を手に入れたんですか。,How did you come by the money?,4,3,true
+105,起きる,おきる,N5,word,,to get up; to rise; to blaze up (fire),６時ごろ起きた。,I got up at about six.,7,6,false
+106,置く,おく,N5,word,,to put; to place; to leave (behind),宿題をやりかけにしておいた。,The boy left his homework half-finished.,7,5,false
+107,奥さん,おくさん,N5,word,,wife; your wife; his wife,彼は奥さんが怖かった。,He was afraid of his wife.,7,8,false
+108,お酒,おさけ,N5,word,,alcohol; sake,夫はたまに御酒をたしなみます。,My husband enjoys his glass once in a while.,9,6,false
+109,お皿,おさら,N5,word,,plate; dish,給仕は新しいお皿を持ってきた。,The waiter brought a new plate.,9,9,false
+110,叔父,おじ,N5,word,,uncle,おじさんがぼくにカメラをくれました。,My uncle gave me a camera.,9,9,false
+111,お祖父さん,おじいさん,N5,word,,grandfather; male senior-citizen; old man,おじいさんは少し耳が遠いんだ。,My grandfather is a bit hard of hearing.,9,9,false
+112,教える,おしえる,N5,word,,to teach; to instruct; to tell,地下鉄へ行く道を教えていただけませんか。,Could you tell me how to get to the subway station?,4,5,false
+113,押す,おす,N5,word,,to push; to thrust; to shove,シャッターを押してくれますか。,Could you press this button?,9,6,false
+114,遅い,おそい,N5,word,,slow; late; too late,彼女は走るのが遅い。,She is a slow runner.,9,8,false
+115,お茶,おちゃ,N5,word,,tea (esp. green or barley); tea break; teatime,３時はお茶にしよう。,Let's have tea at 3:00.,9,6,false
+116,お手洗い,おてあらい,N5,word,,toilet; restroom; lavatory,お手洗いはどこですか。,Where's the restroom?,7,6,false
+117,お父さん,おとうさん,N5,word,,father; dad; papa,お父さんは煙草の煙でたくさん輪を作れる。,Dad can blow many smoke rings.,7,8,true
+118,弟,おとうと,N5,word,,younger brother; little brother; kid brother,彼は私と弟を取り違えた。,He mistook me for my younger brother.,9,8,false
+119,男,おとこ,N5,word,,man; male; fellow,あんな男見ても胸くそが悪い。,I can't bear the sight of him.,4,6,true
+120,男の子,おとこのこ,N5,word,,boy; son; baby boy,あのハンサムな男の子を見て。,Look at that good-looking boy.,4,5,true
+121,一昨日,おととい,N5,word,,day before yesterday,「ウィキペディアを引用するな」という主張が昨日だか一昨日だかの朝日新聞に載っていた。,"The exhortation ""Don't quote Wikipedia"" was included in the Asahi newspaper of yesterday or the day before.",6,7,false
+122,一昨年,おととし,N5,word,,year before last,彼女は、一昨年よりもはるかに暮らし向きがよい。,She's far better off than she was the year before last.,6,7,false
+123,大人,おとな,N5,word,,adult; grown-up,大人だけこの映画が見える。,Only adults can see this film.,3,3,true
+124,お腹,おなか,N5,word,,belly; abdomen; stomach,いいえ、結構です。お腹が一杯ですから。,"No, thank you. I've had enough.",9,6,false
+125,同じ,おなじ,N5,word,,same; identical; equal,ジャズが使う音符は、バッハが使ったのと同じだ,Jazz uses the same notes that Bach used.,4,5,false
+126,お兄さん,おにいさん,N5,word,,older brother; elder brother; young man,彼のお兄さんは有名なサッカーの選手です。,His brother is a famous soccer player.,9,8,false
+127,お姉さん,おねえさん,N5,word,,older sister; elder sister; young lady,あなたのお姉さんは審美感があるね。,Your sister has a sense of beauty.,9,8,false
+128,伯母さん,おばさん,N5,word,,aunt,叔母さんを訪ねた時はすごいごちそうだったね。,What a feast we had when we visited my aunt!,9,9,false
+129,お祖母さん,おばあさん,N5,word,,grandmother; old woman; female senior citizen,ジョンのおばあさんは長い間病に伏せていたが、亡くなった。,John's grandmother passed away after a long illness.,9,8,false
+130,お風呂,おふろ,N5,word,,bath,私はほとんど毎日お風呂に入ります。,I take a bath almost every day.,9,7,false
+131,お弁当,おべんとう,N5,word,,bento; Japanese box lunch,彼は今日、お弁当を持って来た。,He brought his lunch today.,8,6,false
+132,覚える,おぼえる,N5,word,,to memorize; to memorise; to commit to memory,日本語は外人にとって覚えにくい。,It is hard for foreigners to learn Japanese.,7,6,false
+133,お巡りさん,おまわりさん,N5,word,,police officer,おまわりさんに車を片側に寄せるように合図された。,The patrolman motioned me to pull over.,9,8,false
+134,重い,おもい,N5,word,,heavy; weighty; heavy (feeling),「彼の病気は重いのかな」「そうでないといいね」,"""Is he seriously ill?"" ""I hope not.""",4,5,false
+135,面白い,おもしろい,N5,word,,interesting; fascinating; intriguing,この本は面白い読み物です。,This book makes pleasant reading.,5,5,false
+136,泳ぐ,およぐ,N5,word,,to swim; to struggle through (a crowd); to make one's way through the world,この湖で泳ぐのは危険だと思うんだ。,I think it is dangerous to swim in the lake.,9,8,false
+137,降りる,おりる,N5,word,,to descend (e.g. a mountain); to go down; to come down,ここで降りましょう。,Let's get off here.,9,6,false
+138,終わる,おわる,N5,word,,to end; to come to an end; to finish,野球の試合は引き分けに終わった。,The baseball game ended in a draw.,7,6,false
+139,音楽,おんがく,N5,word,,music,あの音楽は彼の気にさわる。,That music gets on his nerves.,8,6,false
+140,女,おんな,N5,word,,woman; female; female lover,彼が戻ってきた時には、女は歩み去っていた。,"When he came back, the woman had walked off.",2,5,true
+141,女の子,おんなのこ,N5,word,,girl; daughter; baby girl,その女の子達は、とても忙しい。,Those girls are very busy.,3,4,true
+142,～回,～かい,N5,grammar_pattern,counter,counter for occurrences (~ times),,,,,false
+143,～階,～かい,N5,grammar_pattern,counter,counter for stories (floors) of a building,,,,,false
+144,外国,がいこく,N5,word,,foreign country,あなたは外国の本を持っていますか。,Do you have any foreign books?,4,4,true
+145,外国人,がいこくじん,N5,word,,foreigner; foreign citizen; foreign national,「居住外国人」とは、どういう意味ですか。,"What does ""resident alien"" mean?",5,5,true
+146,会社,かいしゃ,N5,word,,company; corporation; firm,彼の努力は会社の成長に貢献した。,His effort contributed to my company's growth.,4,5,false
+147,階段,かいだん,N5,word,,stairs; stairway; staircase,その階段を上ってはいけません。,You must not go up the stairs.,9,7,false
+148,買い物,かいもの,N5,word,,shopping; purchased goods,１日おきに買い物に行く。,I go shopping every other day.,5,5,false
+149,買う,かう,N5,word,,to buy; to purchase; to value (highly),車を買うために貯金をしている。,I'm saving money for a car.,7,6,false
+150,返す,かえす,N5,word,,to return (something); to restore; to put back,お金は明日返すよ。,I'll give you back the money tomorrow.,7,6,false
+151,帰る,かえる,N5,word,,to return; to come home; to go home,恋人よ、我に帰れ。,"Lover, come back to me.",7,6,false
+152,顔,かお,N5,word,,face; visage; looks,ヘレンはみんなにほめられて顔を赤くした。,Helen blushed at their praise.,4,6,false
+153,架かる,かかる,N5,word,,to span; to bridge; to cross,池には橋がかかっている。,There is a bridge over the pond.,9,8,false
+154,鍵,かぎ,N5,word,,"key; lock; key (to a problem, success, etc.)",ドアを開ける際に、私は鍵を壊してしまった。,"In opening the door, I broke the lock.",9,9,false
+155,書く,かく,N5,word,,to write; to compose; to pen,ここにあなたの名前をかいてくれませんか。,Would you please write your name here?,4,3,true
+156,学生,がくせい,N5,word,,student (esp. a university student),学生の半数が休んでいた。,Half the students were absent.,3,3,true
+157,～か月,～かげつ,N5,grammar_pattern,time,(number of) months,,,,,false
+158,掛ける,かける,N5,word,,"to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from)",４掛ける２は８だ。,Four multiplied by two is eight.,9,5,false
+159,掛ける,かける,N5,word,,"to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from)",４掛ける２は８だ。,Four multiplied by two is eight.,9,5,false
+160,傘,かさ,N5,word,,umbrella; parasol; something shaped like an umbrella or a conical hat,タクシーに傘を忘れてしまった。,I left my umbrella in the cab.,9,9,false
+161,貸す,かす,N5,word,,to lend; to loan; to rent out,鞄が必要です。貸してください。,I need a bag. Will you lend me one?,9,8,false
+162,振り,ふり,N5,word,,swing; shake; sweep,人のふり見て我がふり直せ。,Learn wisdom from the faults of others.,7,6,false
+163,風邪,かぜ,N5,word,,(common) cold; influenza; flu,ただの風邪でしょう。,You probably just have a cold.,9,7,false
+164,方,かた,N5,word,,direction; way; person,その少年はカーブの投げ方を知っている。,The boy knows how to throw a curve.,2,3,false
+165,家族,かぞく,N5,word,,family,あなたの家族はきっと親切でしょう。,Your family must be very nice.,5,6,false
+166,片仮名,カタカナ,N5,word,,katakana; angular Japanese syllabary used primarily for loanwords,ひらがなは書けますが、カタカナはまだ書けません。,"I can write hiragana, but I can't yet write katakana.",9,8,false
+167,～月,～がつ,N5,grammar_pattern,time,month of year,,,,,false
+168,学校,がっこう,N5,word,,school,この学校はたくさんの生徒がいます。,This school has many students.,5,5,true
+169,カップ,カップ,N5,word,,"cup (drinking vessel, measure, brassiere, prize, etc.)",カップの取っ手がこわれている。,The handle of the cup is broken.,,,false
+170,家庭,かてい,N5,word,,home; household; family,食事は家庭で食べますか、外食ですか。,Do you eat at home or eat out?,7,6,false
+171,角,かく,N5,word,,angle; square; cube,３角形のすべての角の和は１８０度に等しい。,The sum of all the angles in a triangle equals 180 degrees.,9,5,false
+172,鞄,かばん,N5,word,,bag; satchel; briefcase,かばん全部に荷札をつけなさい。,Attach labels to all the bags.,9,9,false
+173,花瓶,かびん,N5,word,,(flower) vase,花びんは粉々になった。,The vase broke into fragments.,9,7,false
+174,被る,かぶる,N5,word,,to put on (one's head); to wear; to have on,その機械はほこりをかぶっていた。,The machine was coated with dust.,9,6,false
+175,紙,かみ,N5,word,,paper,紙に線を１本引きなさい。,Draw a line on the paper.,7,6,false
+176,カメラ,カメラ,N5,word,,camera,おじさんがぼくにカメラをくれました。,My uncle gave me a camera.,,,false
+177,火曜日,かようび,N5,word,,Tuesday,火曜日に国会が開かれる。,The Diet will meet on Tuesday.,8,8,false
+178,辛い,からい,N5,word,,spicy; hot; salty,私は辛い食物はあまり好きではない。,I don't care too much for hot food.,9,8,false
+179,体,からだ,N5,word,,body; torso; trunk,カメレオンは周りの色に合わせて体色を変えることができる。,The chameleon can take on the colors of its background.,4,3,false
+180,借りる,かりる,N5,word,,to borrow; to rent; to hire,この本をお借りしてもよろしいですか。,May I borrow this book?,9,8,false
+181,～がる,～がる,N5,grammar_pattern,suffix,feel,,,,,false
+182,軽い,かるい,N5,word,,"light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily); light (i.e. of foot)",終わったあとも足が軽い感じがしました。,I felt very light on my feet afterwards.,9,6,false
+183,咖哩,カレー,N5,word,,curry (esp. Japanese curry); rice and curry,カレーのルーは非常に滋養に富んでいる。,Curry sauce is very nourishing.,10,10,false
+184,カレンダー,カレンダー,N5,word,,calendar; calender (machine for flattening things),整えられた長机、いくつかのパイプ椅子、壁の掲示板にはカレンダーとプリント数枚が張られている。,"There were long desks lined up, several pipe chairs, and stuck on the bulletin board were a calendar and several printouts.",,,false
+185,川,かわ,N5,word,,river; stream; River,この川はあの川の３倍長い。,This river is three times longer than that one.,4,6,true
+186,～側,～がわ,N5,grammar_pattern,suffix,~ side,,,,,false
+187,可愛い,かわいい,N5,word,,cute; adorable; charming,この世にかわいい子はただ一人、母親にとってはそれはわが子。,"There's only one pretty child in the world, and every mother has it.",8,7,false
+188,漢字,かんじ,N5,word,,kanji; Chinese character,漢字を書くときは点やはらいに気をつけて、なるべく早くていねいに書きましょう。,"When drawing kanji be careful of dots and sweeps, write as carefully and quickly as possible.",9,6,false
+189,木,き,N5,word,,tree; shrub; bush,その木には実がたわわになっていた。,The tree was heavy with fruit.,4,5,true
+190,黄色,きいろ,N5,word,,yellow; amber,床は緑色に塗られていたが、一方壁は黄色だった。,"The floor was painted green, while the walls were yellow.",9,6,false
+191,黄色い,きいろい,N5,word,,yellow; high-pitched (voice); shrill,秋になると葉は黄色くなる。,In autumn the leaves turn yellow.,9,6,false
+192,消える,きえる,N5,word,,to disappear; to vanish; to go out of sight,突然、明かりが消えた。,All at once the lights went out.,7,6,false
+193,聞く,きく,N5,word,,to hear; to listen (e.g. to music); to ask,音楽が好きで、毎日聴いています。,"I like music, and I listen to it every day.",4,6,true
+194,北,きた,N5,word,,north; the North; northern territories,船はまっすぐ北に向かっている。,The ship is bearing due north.,7,6,true
+195,ギター,ギター,N5,word,,guitar,私は彼にギターを弾いてもらいたい。,I want him to play the guitar.,,,false
+196,汚い,きたない,N5,word,,dirty; filthy; foul,ジャックは私に汚いいたずらをした。,Jack played a dirty trick on me.,9,8,false
+197,喫茶店,きっさてん,N5,word,,coffee shop; tearoom; coffee lounge,私たちは喫茶店で昼食をとった。,We ate lunch in a coffee lounge.,10,9,false
+198,切手,きって,N5,word,,stamp (postage); merchandise certificate,趣味は切手を集めることです。,My hobby is collecting stamps.,4,4,false
+199,切符,きっぷ,N5,word,,ticket,この切符で二人入れるよ。,The ticket admits two persons.,8,6,false
+200,昨日,きのう,N5,word,,yesterday,昨日彼がぶらっと立ち寄った。,He dropped in on me yesterday.,7,7,false
+201,九,きゅう,N5,word,,nine; 9,彼は「九時だ」と言った。,"He said, ""It's nine o'clock.""",4,8,true
+202,牛肉,ぎゅうにく,N5,word,,beef,私の好みはどちらかというと牛肉ですね。,I have a predilection for beef.,10,7,false
+203,牛乳,ぎゅうにゅう,N5,word,,(cow's) milk,牛は我々に牛乳を与えてくれる。,The cow supplies us with milk.,10,7,false
+204,今日,きょう,N5,word,,today; this day; these days,今日は何をしたいですか。,What would you like to do today?,4,6,true
+205,教室,きょうしつ,N5,word,,classroom; lecture room; department (in a university),ＬＬ教室を使ってもよいですか。,May we use the language lab?,7,6,false
+206,兄弟,きょうだい,N5,word,,siblings; brothers and sisters; brothers,あなたは何人兄弟がいますか。,How many siblings do you have?,10,9,false
+207,去年,きょねん,N5,word,,last year,ビルは去年の秋に私に会いに来た。,Bill came to see me last autumn.,7,7,false
+208,嫌い,きらい,N5,word,,disliked; hated; disagreeable,ジムくんは行き過ぎの嫌いがある。,Jim tends to go too far.,9,8,false
+209,切る,きる,N5,word,,to cut; to cut through; to perform (surgery),トランプをよく切ってください。,Please shuffle the cards carefully.,4,3,false
+210,着る,きる,N5,word,,"to wear (from the shoulders down); to put on; to take (the blame, responsibility)",「あの赤い服を着るのはよしなさい」「なぜいけないの」,"""You had better not wear the red dress."" ""Why not?""",7,5,false
+211,綺麗,きれい,N5,word,,pretty; lovely; beautiful,この辺りは空気がきれいだよ。,The air is pure around here.,10,9,false
+212,キロ,キロ,N5,word,,kilo-; 1000; kilogram,この車は時速６０キロで走っている。,This car is going 60km an hour.,,,false
+213,キロ,キロ,N5,word,,kilo-; 1000; kilogram,この車は時速６０キロで走っている。,This car is going 60km an hour.,,,false
+214,銀行,ぎんこう,N5,word,,bank; banking institution,ジェーンはお金を引き出しに銀行へ行った。,Jane went to the bank to take out some money.,7,5,false
+215,金曜日,きんようび,N5,word,,Friday,金曜日の銀行は遅じまいだ。,The bank shuts late on Fridays.,7,7,false
+216,九,きゅう,N5,word,,nine; 9,彼は「九時だ」と言った。,"He said, ""It's nine o'clock.""",4,8,true
+217,薬,くすり,N5,word,,medicine; pharmaceuticals; (legal) drugs,この薬を飲めば、あなたは頭痛が治るでしょう。,The medicine will cure your headache.,9,6,false
+218,下さい,ください,N5,word,,please (give me); please (do for me),熱いココアを下さい。,I'd like to have some hot chocolate.,2,3,true
+219,果物,くだもの,N5,word,,fruit,彼は果物の他何も食べない。,He eats nothing else but fruit.,5,5,false
+220,口,くち,N5,word,,mouth; opening; hole,あの仕事の口はまだあるよ。,The job offer still stands.,4,5,false
+221,靴,くつ,N5,word,,shoe; shoes; boots,くつは革でつくられている。,The shoes are made of leather.,9,8,false
+222,靴下,くつした,N5,word,,socks; sock; stockings,この靴下の片方はどこだ。,Where is the mate to this sock?,7,6,false
+223,国,くに,N5,word,,country; state; region,その王がその国を治めていた。,The king governed the country.,2,3,true
+224,曇り,くもり,N5,word,,"cloudiness; cloudy weather; fog (on a mirror, glasses, etc.)",昨日、東京は曇りでしたか。,Was it cloudy in Tokyo yesterday?,9,9,false
+225,曇る,くもる,N5,word,,to get cloudy; to cloud over; to become overcast,蒸気でメガネが曇ってしまった。,The steam has fogged my glasses.,9,9,false
+226,暗い,くらい,N5,word,,dark; gloomy; murky,あたりがもう暗くなっていることに気がついた。,I observed that it had already got dark.,9,6,false
+227,～くらい; ぐらい,～くらい; ぐらい,N5,grammar_pattern,suffix,approximate (quantity),,,,,false
+228,クラス,クラス,N5,word,,class,あなたはうちのクラスで歓迎されています。,You are welcomed in our class.,,,false
+229,瓦,グラム,N5,word,,gram; gramme,このジャムの正味重量は２００グラムです。,The net weight of this jam is 200 grams.,9,9,false
+230,来る,くる,N5,word,,to come (spatially or temporally); to approach; to arrive,１０時までに来ます。,I'll come by 10.,4,5,true
+231,車,くるま,N5,word,,car; automobile; vehicle,車を運転する時はいくら注意してもしすぎることはない。,You cannot be too careful when you drive a car.,7,5,true
+232,黒,くろ,N5,word,,black; black stone; guilt,２匹犬を飼っているが、１匹は白でもう１匹は黒だ。,I have two dogs. One is white and the other black.,7,6,false
+233,黒い,くろい,N5,word,,black; dark; blackish,ナンシーはヘレンよりもほんのすこし色が黒い。,Nancy is a shade darker than Helen.,7,6,false
+234,警官,けいかん,N5,word,,police officer; policeman; constable,２０人の警官が現場に現れた。,Twenty police have arrived on the scene.,8,6,false
+235,今朝,けさ,N5,word,,this morning,今朝はとても寒かった。,It was very cold this morning.,5,7,false
+236,消す,けす,N5,word,,to erase; to rub out; to rub off,寝る前に電気を消してください。,Turn off the light before you go to bed.,7,6,false
+237,結構,けっこう,N5,word,,splendid; nice; wonderful,どちらの日でも結構です。,Either day is OK.,7,6,false
+238,結婚,けっこん,N5,word,,marriage,結婚の申し込みが殺到した。,Marriage proposals flooded in.,8,6,false
+239,月曜日,げつようび,N5,word,,Monday,月曜日はいつも憂鬱だ。,I always feel blue on Mondays.,6,8,false
+240,玄関,げんかん,N5,word,,entrance; front door; entryway,トムが玄関にいるのでなかに入るように言ってください。,Tom is at the door. Please ask him in.,8,8,false
+241,元気,げんき,N5,word,,lively; full of spirit; energetic,こんにちは、ロジャー。とっても元気よ。,"Hi, Roger. I'm pretty good!",5,6,false
+242,～個,～こ,N5,grammar_pattern,counter,counter for small items (e.g.; fruits; cups),,,,,false
+243,五,ご,N5,word,,five; 5,私は五歳です,I am five years old,4,6,true
+244,～語,～ご,N5,grammar_pattern,suffix,word; language,,,,,false
+245,公園,こうえん,N5,word,,(public) park,この公園はすべての人に公開されている。,The park is open to everybody.,8,7,false
+246,交差点,こうさてん,N5,word,,crossing; intersection,あの交差点で何が起こったのか。,What happened at that crossing?,9,7,false
+247,紅茶,こうちゃ,N5,word,,black tea,紅茶２杯とコーヒー１杯ください。,"Two teas and a coffee, please.",10,7,false
+248,交番,こうばん,N5,word,,police box; koban; small neighborhood police station,向こうの交番で聞いてください。,Ask at the police station over there.,8,6,false
+249,声,こえ,N5,word,,voice; singing (of a bird); chirping (of an insect),あなたの声が聞けてうれしいわ。,I am happy to hear your voice.,4,6,false
+250,コート,コート,N5,word,,coat; coating,あなたが家を出た後で、私はあなたのコートに気づきました。,I found your coat after you left the house.,,,false
+251,珈琲,コーヒー,N5,word,,coffee,彼は熱いコーヒーをゆっくりすすった。,He sipped the hot coffee slowly.,10,10,false
+252,此処,ここ,N5,word,,here; this place; this point,ここに手のないナベがある。,Here is a pan without handles.,10,9,false
+253,午後,ごご,N5,word,,afternoon; p.m.,その急行は午後六時三十分着だ。,The express arrives at 6:30 p.m.,7,8,true
+254,９日,ここのか,N5,word,,9th day of the month; nine days,スピーチコンテストは１１月９日に行われた。,The speech contest took place on the ninth of November.,2,3,true
+255,九つ,ここのつ,N5,word,,nine; nine years of age; twelve o'clock (old time system),太陽をまわる惑星は９つもあり、地球もその１つである。,"There are nine planets travelling around the sun, the earth being one of them.",4,8,true
+256,午前,ごぜん,N5,word,,morning; a.m.,その電車は午前９時にここを出発します。,The train departs here at 9:00 a.m.,7,8,true
+257,答える,こたえる,N5,word,,to answer; to reply,「はい、ありません」とジョーダンさんは答えた。,"""No, I don't,"" said Mr Jordan.",7,8,false
+258,此方,こちら,N5,word,,this way; this direction; here,塩をこちらへ取ってもらえますか。,"Could you pass me the salt, please?",7,7,false
+259,此方,こちら,N5,word,,this way; this direction; here,塩をこちらへ取ってもらえますか。,"Could you pass me the salt, please?",7,7,false
+260,洋杯,コップ,N5,word,,glass (drinking vessel); tumbler; cups (suit),ガラスのコップを流しにおこうとしたら手が滑って、ガシャッと割れた。,When I tried to set the glass down in the sink my hand slipped and it shattered to pieces.,10,8,false
+261,今年,ことし,N5,word,,this year,今年の暑い夏には耐えられません。,I can't stand this hot summer.,4,6,true
+262,言葉,ことば,N5,word,,language; dialect; word,言葉が出てこなかった。,Words failed me.,5,5,false
+263,子供,こども,N5,word,,child; children,あなたには何人子供がいますか。,How many children do you have?,5,5,false
+264,九,きゅう,N5,word,,nine; 9,彼は「九時だ」と言った。,"He said, ""It's nine o'clock.""",4,8,true
+265,ご飯,ごはん,N5,word,,cooked rice; meal,ご飯とパンどちらがいいですか。,"Which do you prefer, rice or bread?",9,6,false
+266,コピーする,コピーする,N5,word,,to copy,コピーをもらえますか？,Can I get a copy?,,,false
+267,困る,こまる,N5,word,,to be troubled; to have difficulty; to be in a fix,騒音でこまっている。,The noise bothers me.,9,9,false
+268,此れ,これ,N5,word,,this; this one; this person,これは兄です。かっこいいですね。,"This is my brother. Handsome, isn't he?",9,9,false
+269,～ころ; ～ごろ,～ころ; ～ごろ,N5,grammar_pattern,time,about; toward; approximately (time),,,,,false
+270,今月,こんげつ,N5,word,,this month,今月の売り上げはよくない。,Sales have been off this month.,4,6,true
+271,今週,こんしゅう,N5,word,,this week,今週はどちらにいらしゃいましたか。,Where have you been this week?,8,8,false
+272,こんな,こんな,N5,word,,this sort of; this kind of; like this,こんな風に、彼は私を扱った。,This is the way he treated me.,,,false
+273,今晩,こんばん,N5,word,,tonight; this evening,今晩は少し熱っぽいのです。,I feel a bit feverish tonight.,8,8,false
+274,さあ,さあ,N5,word,,come (on); come now; come along,さあ東京駅に着きました。,Here we were at Tokyo Station.,,,false
+275,～歳,～さい,N5,grammar_pattern,counter,~ years old,,,,,false
+276,財布,さいふ,N5,word,,wallet; purse; coin purse,あなたの財布は私のに似ている。,Your purse is similar to mine.,10,7,false
+277,魚,さかな,N5,word,,fish,こうして私はいつも魚を料理する。,This is how I usually cook fish.,9,6,false
+278,先,さっき,N5,word,,a short while ago; a moment ago; just now,いいからさっき盗ったモノを、カバンの中から出しなさい。,"Never mind that, just take out what you've just nicked from your bag.",4,5,true
+279,咲く,さく,N5,word,,to bloom; to flower; to blossom,これらの花は春に咲く。,These flowers bloom in spring.,9,9,false
+280,作文,さくぶん,N5,word,,"writing (an essay, prose, etc.); composition; formal writing with little real meaning",「友情」という題で作文を書きなさい。,"Write an essay on ""Friendship"".",5,5,false
+281,差す,さす,N5,word,,to shine; to be visible; to be tinged with,彼は雨の中を傘もささずに歩きつづけた。,He went on walking in the rain without an umbrella.,7,6,false
+282,～冊,～さつ,N5,grammar_pattern,counter,counter for books,,,,,false
+283,雑誌,ざっし,N5,word,,magazine; journal; periodical,その雑誌はどこで買えますか。,Where can I buy that magazine?,10,8,false
+284,砂糖,さとう,N5,word,,sugar,はちには砂糖が全然ない。,There is no sugar in the bowl.,10,9,false
+285,寒い,さむい,N5,word,,cold (e.g. weather); uninteresting (esp. joke); lame,この寒さにはもう耐えられない。,I can no longer stand the cold.,9,6,false
+286,再来年,さらいねん,N5,word,,year after next,祖父は、再来年引退する予定です。,My grandfather is planning to retire the year after next.,6,7,false
+287,～さん,～さん,N5,grammar_pattern,suffix,Mr. ~; Ms. ~,,,,,false
+288,三,さん,N5,word,,three; 3,彼は手荷物が三個あった。,He had three pieces of baggage.,2,3,true
+289,散歩,さんぽ,N5,word,,walk; stroll,公園を散歩しましょう。,Let's take a walk in the park.,9,7,false
+290,四,し,N5,word,,four; 4,その湖は直径四マイルである。,The lake is four miles across.,4,6,true
+291,～時,～じ,N5,grammar_pattern,time,~ o'clock (time),,,,,false
+292,塩,しお,N5,word,,salt; common salt; table salt,このスープは塩が少し足りない。,This soup wants a bit of salt.,9,6,false
+293,然し,しかし,N5,word,,however; but,しかし、たいへん息子を欲しがっていました。,But he wanted a son very much.,7,5,false
+294,時間,じかん,N5,word,,time; hour; period,いつだって読書の時間は見つけられる。,We can always find time for reading.,3,4,true
+295,～時間,～じかん,N5,grammar_pattern,time,~ hours,,,,,false
+296,仕事,しごと,N5,word,,work; job; labor,「あなたは仕事が気に入っていると思います」「いやそれどころか、嫌いです」,"""I think you like your job."" ""On the contrary, I hate it.""",4,6,false
+297,辞書,じしょ,N5,word,,dictionary; lexicon; letter of resignation,正確なつづりは辞書で調べなさい。,I refer you to the dictionary for the correct spelling.,8,6,false
+298,静か,しずか,N5,word,,quiet; silent; slow,キャプテンは静かにするように命じた。,The captain commanded silence.,9,6,false
+299,下,した,N5,word,,below; down; under,下に署名してください。,"Sign at the bottom, please.",2,3,true
+300,七,しち,N5,word,,seven,私は今朝7時に起きた。,I got up at seven this morning.,4,6,true
+301,質問,しつもん,N5,word,,question; inquiry; enquiry,その事故について彼に質問した。,I asked him about the accident.,7,6,false
+302,自転車,じてんしゃ,N5,word,,bicycle; bike,ケンは自転車を白く塗りました。,Ken painted his bicycle white.,7,6,false
+303,自動車,じどうしゃ,N5,word,,car; automobile; motorcar,"私達はその自動車を12,000ドルで買った。","We bought the car for $12,000.",6,6,false
+304,死ぬ,しぬ,N5,word,,to die; to pass away; to lose spirit,その少年は死んだものとしてあきらめられた。,The boy was given up for dead.,4,5,false
+305,字引,じびき,N5,word,,dictionary,,,7,6,false
+306,自分,じぶん,N5,word,,myself; yourself; oneself,スミスさんは、自分はニューヨークの生まれだが妻は日本だと言う。,"Mr Smith says he was born in New York, but that his wife comes from Japan.",3,4,false
+307,閉まる,しまる,N5,word,,to be shut; to close; to be closed,あいにく店は閉まっていた。,"Unfortunately, the store was closed.",9,8,false
+308,閉める,しめる,N5,word,,to close; to shut,どうかドアを閉めてくれませんか。,Will you please shut the door?,9,8,false
+309,締める,しめる,N5,word,,to tie; to fasten; to tighten,離陸の際は、シートベルトを締めなくてはならない。,You must fasten your seat belts during take-off.,9,8,false
+310,じゃあ,じゃあ,N5,word,,then; well; so,「安いですね。じゃあ10ヤードください」小娘が答えた。,"""That's cheap. I'll take ten yards,"" the girl answered.",,,false
+311,写真,しゃしん,N5,word,,photograph; photo; picture,あなたに何枚かの写真を見せましょう。,I will show you some pictures.,8,6,false
+312,シャツ,シャツ,N5,word,,shirt (undergarment); undershirt; singlet,あなたのシャツは洗う必要がある。,Your shirts need to be washed.,,,false
+313,シャワー,シャワー,N5,word,,shower,彼女は毎朝シャワーを浴びます。,She takes a shower every morning.,,,false
+314,十,じゅう,N5,word,,ten; 10; ten years of age,その会は十時に終わった。,The party ended at ten o'clock.,2,5,true
+315,～中,～じゅう,N5,grammar_pattern,time,during; while,,,,,false
+316,～週間,～しゅうかん,N5,grammar_pattern,time,~ weeks,,,,,false
+317,授業,じゅぎょう,N5,word,,lesson; class; teaching,それは授業の終わりだった。,That was the end of the class.,8,6,false
+318,宿題,しゅくだい,N5,word,,homework; assignment; pending issue,今日は宿題が無い。,I have no homework today.,8,7,false
+319,上手,じょうず,N5,word,,skillful; skilled; proficient,あなたは上手にバスケットボールができますか。,Do you play basketball well?,3,4,false
+320,丈夫,じょうぶ,N5,word,,healthy; robust; strong,彼は丈夫だったそうです。,He is said to have been strong.,9,8,false
+321,醤油,しょうゆ,N5,word,,soy sauce; soya sauce; shoyu,同社は醤油その他の食品を生産する。,The company produces soy sauce and other food products.,10,9,false
+322,食堂,しょくどう,N5,word,,dining room; dining hall; cafeteria,私達の家は食堂を含めて７部屋あります。,Our house has seven rooms including the dining room.,8,7,false
+323,知る,しる,N5,word,,to know; to be aware (of); to be conscious (of),あなたは１９９０年から彼女を知っているのですか？,Have you known her since 1990?,4,5,false
+324,白,しら,N5,word,,white; unseasoned; undyed,２匹犬を飼っているが、１匹は白でもう１匹は黒だ。,I have two dogs. One is white and the other black.,4,5,true
+325,白い,しろい,N5,word,,white,ケンは自転車を白く塗りました。,Ken painted his bicycle white.,4,5,true
+326,～人,～じん,N5,grammar_pattern,counter,counter for people,,,,,false
+327,新聞,しんぶん,N5,word,,newspaper,ジョンのことが新聞に出ていた。,John was mentioned in the paper.,5,6,false
+328,水曜日,すいようび,N5,word,,Wednesday,ダービー競馬の日は２週間後の水曜日だ。,Derby Day is Wednesday fortnight.,7,7,false
+329,吸う,すう,N5,word,,"to breathe in; to inhale; to smoke (a cigarette, etc.)",この紙はインクを吸わない。,This paper does not absorb ink.,9,8,false
+330,スカート,スカート,N5,word,,skirt,あなたのサロン風のスカートが好きです。,I like your sarong style skirt.,,,false
+331,好き,すき,N5,word,,liking; being fond of; to one's liking,「ケーキはお好きですか」「はい、好きです」,"""Do you like cake?"" ""Yes, I do.""",7,6,false
+332,～すぎ,～すぎ,N5,grammar_pattern,suffix,past; to exceed; ~ too much,,,,,false
+333,少ない,すくない,N5,word,,few; little; small (amount),この病気に勝てる人は少ない。,Not many survive this disease.,4,6,false
+334,直ぐに,すぐに,N5,word,,immediately; right away; at once,あなたはすぐに良くなるだろうと思います。,I hope you'll soon get well.,7,5,false
+335,少し,すこし,N5,word,,a little; a bit; a small amount,少しテレビを見てもいいですか。,Do you mind if I watch TV for a while?,4,6,false
+336,涼しい,すずしい,N5,word,,cool; refreshing; clear (e.g. eyes),日増しに涼しくなっていく。,It's getting cooler day by day.,9,9,false
+337,～ずつ,～ずつ,N5,grammar_pattern,suffix,at a time,,,,,false
+338,ストーブ,ストーブ,N5,word,,(room) heater; stove,彼はストーブで体を暖めた。,He warmed himself at the stove.,,,false
+339,スプーン,スプーン,N5,word,,spoon; spoon lure,この赤ん坊はまだスプーンが使えない。,The baby cannot use a spoon yet.,,,false
+340,スポーツ,スポーツ,N5,word,,sport; sports,ところであなたはどんなスポーツが好きですか。,"Well, what sports do you like?",,,false
+341,洋袴,ズボン,N5,word,,trousers; pants,あなたは私のズボンをどうしたのですか。,What did you do with my pants?,10,9,false
+342,住む,すむ,N5,word,,to live (of humans); to reside; to inhabit,あなたはどのくらいの間、神戸に住んでいますか。,How long have you lived in Kobe?,7,6,false
+343,為る,する,N5,word,,to do; to carry out; to perform,結構です。それにしましょう。,All right. I'll take it.,9,6,false
+344,座る,すわる,N5,word,,to sit (down); to have a seat; to be seated,数人の学生がベンチに座り、昼食を食べていた。,Some students were sitting on the bench and having lunch.,7,5,false
+345,背,せ,N5,word,,back; reverse; rear side,彼はいすの背にもたれている。,He is leaning on the back of the chair.,7,6,false
+346,生徒,せいと,N5,word,,pupil; student; schoolchild,あなたは何と賢い生徒なのでしょう。,What a clever student you are!,7,6,false
+347,セーター,セーター,N5,word,,sweater; jumper,このセーターは洗っても大丈夫です。,This sweater will stand washing.,,,false
+348,石鹸,せっけん,N5,word,,soap,ひげをそる前に石けんをつける。,I lather my face before shaving.,9,8,false
+349,背広,せびろ,N5,word,,business suit,私は新しい背広を買った。,I bought a new suit of clothes.,8,7,false
+350,狭い,せまい,N5,word,,narrow; confined; small,この部屋は私たちにとって狭すぎる。,This room is too small for us.,9,8,false
+351,０,ゼロ,N5,word,,zero; 0; nought,ゼロという概念はヒンドゥー文化に由来している。,The concept of zero sprang from the Hindu culture.,,,false
+352,千,せん,N5,word,,"thousand; 1,000",飲み代として使った金額は総計７千ドルだった。,The total bill for drinks came up to 7000 dollars.,7,6,true
+353,先月,せんげつ,N5,word,,last month,先月は、ほとんど雨が降らなかった。,We had little rain last month.,4,6,true
+354,先週,せんしゅう,N5,word,,last week; the week before,この本は先週一番売れた。,This was the best-selling book last week.,8,7,false
+355,先生,せんせい,N5,word,,teacher; instructor; master,ぼくはジョーンズ先生に作文を直してもらった。,I had my composition corrected by Mr Jones.,4,4,true
+356,洗濯,せんたく,N5,word,,washing; laundry; relaxation,この綿のシャツは洗濯がよく効く。,This cotton shirt washes well.,10,9,false
+357,全部,ぜんぶ,N5,word,,all; entire; whole,かばん全部に荷札をつけなさい。,Attach labels to all the bags.,4,6,false
+358,そう,そう,N5,word,,appearing that; seeming that; looking like,まもなく雨が降りそうだ。,It is going to rain soon.,,,false
+359,掃除,そうじ,N5,word,,cleaning; sweeping; dusting,あなたの部屋を掃除しましたか。,Did you clean your room?,10,8,false
+360,然うして,そうして,N5,word,,and; like that,そうしてくれて君は親切ですね。,It is kind of you to do so.,7,5,false
+361,其処,そこ,N5,word,,there (place relatively near listener); there (place just mentioned); that place,１時間以内にそこに着くでしょう。,We'll arrive there within an hour.,10,9,false
+362,其方,そちら,N5,word,,that way; that direction; there,そっちの生活はどうだい？,How are things for you up there?,7,7,false
+363,其方,そちら,N5,word,,that way; that direction; there,そっちの生活はどうだい？,How are things for you up there?,7,7,false
+364,外,そと,N5,word,,outside; exterior; the open (air),うちはうち、そとはそと。,"Our house, our rules.",4,3,true
+365,其の,その,N5,word,,"that; the; part (as in ""part two"")",毎日、放課後に私はその本屋で彼女を待った。,Every day I waited for her at the bookstore after school.,9,9,false
+366,蕎麦,そば,N5,word,,buckwheat (Fagopyrum esculentum); soba; Japanese buckwheat noodles,長野にいる友人を訪問した際、おいしいそばをごちそうになった。,"When I visited my friend in Nagano, I was treated to delicious soba.",10,9,false
+367,空,から,N5,word,,emptiness; being empty; not carrying anything,ほとんど空なのでガソリンを入れなくてはなりません。,"I need to put some gas in the car, as it's almost empty.",7,5,false
+368,其れ,それ,N5,word,,that; it; then,万一それが起これば、君はどうしますか。,"Should that happen, what will you do?",9,9,false
+369,其れから,それから,N5,word,,and then; after that,それから長い沈黙が続いた。,There followed a long silence.,9,9,false
+370,其れでは,それでは,N5,word,,"well, ...; right, ...; now, ...",それでは私の立つ瀬がない。,That would leave me in a fix.,9,9,false
+371,～台,～だい,N5,grammar_pattern,counter,counter for vehicles; machines,,,,,false
+372,大学,だいがく,N5,word,,university; college; former imperial university of Japan (established under the ritsuryō system for the training of government administrators),あなたは理科系の大学に進んだほうがいいよ。,You should go on to a technical college.,3,3,true
+373,大使館,たいしかん,N5,word,,embassy,大使館は最高裁判所に隣接している。,The embassy is located next to the Supreme Court.,7,7,false
+374,大丈夫,だいじょうぶ,N5,word,,safe; secure; sound,いや、大丈夫だ。,"No, no, that's okay.",8,7,false
+375,大好き,だいすき,N5,word,,liking very much; loving (something or someone); adoring,こちらはケンです。彼は自分の犬が大好きです。,This is Ken. He really likes his dog.,5,5,false
+376,大切,たいせつ,N5,word,,important; significant; serious,大切なものはここに置かないで下さい。,Please don't leave valuable things here.,4,3,false
+377,台所,だいどころ,N5,word,,kitchen; financial situation; finances,メアリーは階段をおりて台所へ行った。,Mary went down to the kitchen.,7,6,false
+378,大変,たいへん,N5,word,,very; greatly; terribly,１日中歩き回って大変疲れた。,I am dead tired from walking around all day.,4,4,false
+379,高い,たかい,N5,word,,high; tall; expensive,そんな高い車を買う余裕はありません。,I can't afford to buy such an expensive car.,4,3,true
+380,～だけ,～だけ,N5,grammar_pattern,suffix,only ~; just ~; as ~,,,,,false
+381,沢山,たくさん,N5,word,,a lot; lots; plenty,お父さんは煙草の煙でたくさん輪を作れる。,Dad can blow many smoke rings.,8,7,false
+382,タクシー,タクシー,N5,word,,taxi,そのタクシーはいきなり左に曲がった。,The taxi abruptly turned left.,,,false
+383,出す,だす,N5,word,,to take out; to get out; to put out,いつから痛みだしましたか。,How long have you had this pain?,2,3,true
+384,～たち,～たち,N5,grammar_pattern,suffix,plural suffix,,,,,false
+385,立つ,たつ,N5,word,,to stand (up); to rise; to get to one's feet,次々に立って出ていった。,One after another they stood up and went out.,2,3,false
+386,縦,たて,N5,word,,the vertical; height; front-to-back,テーブルを縦一列に並べなさい。,Put the tables end to end.,9,8,false
+387,建物,たてもの,N5,word,,building,あそこの建物が燃えているに違いない。,That building must be on fire.,5,5,false
+388,楽しい,たのしい,N5,word,,enjoyable; fun; pleasant,あなたと一緒にいて楽しかった。,I really enjoyed your company.,7,6,false
+389,頼む,たのむ,N5,word,,to request; to beg; to ask,あなたに頼んでもよろしいですか。,May I request a favour of you?,7,8,false
+390,煙草,タバコ,N5,word,,tobacco; cigarette; cigar,タバコはやめたよ。,I stopped smoking.,10,7,false
+391,多分,たぶん,N5,word,,probably; likely; perhaps,君にはたぶんみんなわかっていることでしょう。,I expect you know all about it.,4,5,false
+392,食べ物,たべもの,N5,word,,food,冷蔵庫の中にたくさんの食べ物が入っていますか。,Is there much food in the refrigerator?,4,4,false
+393,食べる,たべる,N5,word,,to eat; to live on (e.g. a salary); to live off,もっと果物を食べるべきです。,You should eat more fruit.,4,5,true
+394,卵,たまご,N5,word,,eggs; egg; spawn,卵は硬くゆでてください。,Boil the eggs hard.,9,8,false
+395,誰,だれ,N5,word,,who,あそこに立ってる女の人はだれですか。,Who is the woman standing there?,7,9,false
+396,誰か,だれか,N5,word,,someone; somebody,「誰か車の中にいるのですか」「トムがいます」,"""Who is in the car?"" ""Tom is.""",7,9,false
+397,誕生日,たんじょうび,N5,word,,birthday,今日は、妹の誕生日です。,Today is my sister's birthday.,6,7,false
+398,刻々,ギザギザ,N5,word,,notches; serration; indentation,ぎざぎざのかどが彼のズボンに引っかかって穴を空けた。,The jagged edge ripped a hole in his trousers.,9,8,false
+399,小さい,ちいさい,N5,word,,small; little; tiny,その机はメグには小さすぎる。,The desk is too small for Meg.,2,3,true
+400,小さな,ちいさな,N5,word,,small; little; tiny,その犬は小さな男の子に向かって唸った。,The dog growled at a little boy.,2,3,true
+401,近い,ちかい,N5,word,,near; close; short (distance),クリスマスが近くなってきた。,Christmas is fast approaching.,4,6,false
+402,違う,ちがう,N5,word,,to differ (from); to be different; to be distinct,君は違う方にいきますよ。,You're going the wrong way.,7,6,false
+403,近く,ちかく,N5,word,,near; neighbourhood; neighborhood,国会は近く解散するだろう。,The Diet will soon be dissolved.,4,6,false
+404,地下鉄,ちかてつ,N5,word,,subway; metro; underground (railway),地下鉄で行きたいのです。,I want to get there by subway.,6,6,false
+405,地図,ちず,N5,word,,map; atlas; chart,どこへ行けばヨーロッパの地図が手に入りますか。,Where can I obtain a map of Europe?,5,6,false
+406,父,ちち,N5,word,,father,私の父は大の旅行好きです。,My father is a great traveler.,7,8,true
+407,茶色,ちゃいろ,N5,word,,brown; light brown; tawny,その犬は茶色で小さくて、やせています。,"The dog is brown, small and thin.",9,6,false
+408,茶碗,ちゃわん,N5,word,,rice bowl; tea cup; teacup,彼は茶碗を床にたたきつけた。,He dashed the cup on the floor.,10,9,false
+409,～中,～ちゅう,N5,grammar_pattern,time,during; while ~ing,,,,,false
+410,丁度,ちょうど,N5,word,,exactly; precisely; just,私達はちょうど食事を終えた所です。,We've just finished breakfast.,8,7,false
+411,一寸,ちょっと,N5,word,,a little; a bit; slightly,ちょっと、そこのきみ！,"Hey, you there!",7,6,false
+412,一日,いちにち,N5,word,,one day; all day (long); the whole day,私のｅ―ｍａｉｌアドレスは４月１日より下記になります。,My e-mail address will be as follows effective April 1.,3,3,true
+413,使う,つかう,N5,word,,"to use (a tool, method, etc.); to make use of; to put to use",お湯を全部使わないで。,Don't use all the hot water.,4,6,false
+414,疲れる,つかれる,N5,word,,to get tired; to tire; to get fatigued,そのとき、彼らは、ブラックベリーの林の周りをつかれて、のどがかわくまで競争して遊んでいました。,"Then they played ""ring-a-ring-a-rosy"" until they were tired and thirsty.",9,9,false
+415,次,つぎ,N5,word,,next; following; subsequent,この次来るときは、花を持ってきてあげよう。,"Next time I come, I'll bring you some flowers.",4,6,false
+416,着く,つく,N5,word,,to arrive at; to reach; to sit on,各自席につきなさい。,Go to your respective seats.,7,5,false
+417,机,つくえ,N5,word,,desk,重荷で机がまた軋んだ。,The loaded desk groaned again.,9,9,false
+418,作る,つくる,N5,word,,to make; to produce; to manufacture,たまごを割らずにオムレツは作れない。,You can't make an omelet without breaking eggs.,4,5,false
+419,就ける,つける,N5,word,,"to install (a king, emperor, etc.); to appoint (to a post); to promote",君が職に就けるといいんだが。,I should be glad if you got the job.,9,8,false
+420,勤める,つとめる,N5,word,,to work (for); to be employed (at); to serve (in),私の父は外務省に勤めている。,My father serves in the Foreign Ministry.,9,8,false
+421,詰らない,つまらない,N5,word,,dull; uninteresting; boring,あの新しい映画は、つまらんかった。,That new movie was a bummer.,9,8,false
+422,冷たい,つめたい,N5,word,,cold (to the touch); chilly; icy,もう手が冷たくって。,My hand's getting too cold.,9,6,false
+423,強い,つよい,N5,word,,strong; potent; competent,この布地は洗濯に強い。,This material will stand up to lots of washings.,4,6,false
+424,手,て,N5,word,,hand; arm; forepaw,いい手が配られた。,I was dealt a good hand.,2,3,false
+425,テープ,テープ,N5,word,,tape,君はそのコンサートをテープにとったか。,Did you tape that concert?,,,false
+426,テープレコーダー,テープレコーダー,N5,word,,tape recorder,このテープレコーダーは新しくない。,This tape recorder is not new.,,,false
+427,テーブル,テーブル,N5,word,,table,このテーブルを頼んだのではない。,I didn't ask for a table here.,,,false
+428,出かける,でかける,N5,word,,to go out (e.g. on an excursion or outing); to leave; to depart,１０分前に出かけました。,She left home ten minutes ago.,2,3,true
+429,手紙,てがみ,N5,word,,letter; note,ここにあなたあての手紙が何通かあります。,Here are some letters for you.,5,6,false
+430,出来る,できる,N5,word,,to be able to do; to be possible; to be permitted (to do),トイレお借りできますか。,May I use your toilet?,4,5,true
+431,出口,でぐち,N5,word,,exit; way out; outlet,B2出口から地上に出てください。,Go up to ground level at exit B2.,4,5,false
+432,テスト,テスト,N5,word,,"test (of ability, knowledge, etc.); exam; examination",新しいエンジンは必要なテストをすべて受けなければならない。,The new engine must undergo all the necessary tests.,,,false
+433,では,では,N5,word,,then; well; so,では今晩またね、さようなら。,"See you tonight, then. Cheers!",,,false
+434,デパート,デパート,N5,word,,department store; department,あのデパートで新しいコートを買いたい。,I would like to buy a new coat at that department store.,,,false
+435,でも,でも,N5,word,,but; however; though,あの男がもう１つでも間違いを犯したらクビにする。,"If that man makes one more mistake, I'll fire him.",,,false
+436,出る,でる,N5,word,,to leave; to exit; to go out,電話には出なかったからメールしておきました。,"He didn't answer the phone, so I left him an email.",2,3,true
+437,テレビ,テレビ,N5,word,,television; TV; TV program,あなたはどこでテレビを見ますか。,Where do you watch television?,,,false
+438,天気,てんき,N5,word,,weather; fair weather; fine weather,今日が天気ならいいのに。,I wish it were fine today.,4,4,true
+439,電気,でんき,N5,word,,electricity; (electric) light,電気を消すのを忘れないで。,Don't forget to turn the light off.,5,4,true
+440,電車,でんしゃ,N5,word,,train; electric train,あなたは始発電車に間にあいましたか。,Did you catch the first train?,8,5,true
+441,電話,でんわ,N5,word,,telephone call; phone call; telephone (device),電話は繰り返し鳴っていた。,The telephone rang repeatedly.,7,5,true
+442,戸,と,N5,word,,door (esp. Japanese-style); shutter; window shutter,誰かが戸をやかましくノックしている。,Someone is knocking loudly at the door.,7,6,false
+443,～度,～ど,N5,grammar_pattern,counter,counter for occurrences; ~ degree; ~ point,,,,,false
+444,ドア,ドア,N5,word,,door,このドアは書斎に通じている。,This door leads to the study.,,,false
+445,トイレ,トイレ,N5,word,,toilet; restroom; bathroom,トイレの水が止まりません。,The toilet won't stop running.,,,false
+446,如何,どう,N5,word,,how; in what way; how about,あなたはあの車をどう処理したのですか？,What did you do with that car?,8,8,false
+447,如何して,どうして,N5,word,,how; in what way; by what means,そのニュースはどうして漏れたのだろう。,How did the news get out?,8,8,false
+448,どうぞ,どうぞ,N5,word,,please; kindly; pray,写真をどうぞ見せて下さい。,Please show me your picture.,,,false
+449,動物,どうぶつ,N5,word,,animal,私はその動物の名前を知っている。,I know the name of this animal.,4,3,false
+450,どうも,どうも,N5,word,,thank you; thanks; much (thanks),お手数かけてどうもすいません。,I'm sorry to bother you.,,,false
+451,十,じゅう,N5,word,,ten; 10; ten years of age,その会は十時に終わった。,The party ended at ten o'clock.,2,5,true
+452,遠い,とおい,N5,word,,far; distant; far away,彼の家はここから遠くない。,His house is not far from here.,7,6,false
+453,１０日,とおか,N5,word,,10th day of the month; ten days,会議は１０日後です。,The meeting is ten days away.,2,3,true
+454,～時,～とき,N5,grammar_pattern,time,at the time of ~,,,,,false
+455,時々,ときどき,N5,word,,sometimes; occasionally; at times,ジェーンはときどき学校まで走っていく。,Jane sometimes runs to school.,2,3,true
+456,時計,とけい,N5,word,,clock; watch; timepiece,あなたの時計では何時ですか。,What time is it by your watch?,5,5,false
+457,何処,どこ,N5,word,,"where; what place; how much (long, far)",あなたはどこでテレビを見ますか。,Where do you watch television?,8,7,false
+458,所,ところ,N5,word,,place; spot; scene,あっ、いけない！忘れるところだった！,"Oh, no! I almost forgot!",4,3,false
+459,年,とし,N5,word,,year; age; years,お年をお聞きしてよろしいでしょうか。,Might I ask your age?,2,5,true
+460,図書館,としょかん,N5,word,,library,私たちの学校には立派な図書館があります。,We have a nice school library.,9,8,false
+461,何方,どちら,N5,word,,which way; which direction; where,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?",4,6,false
+462,何方,どちら,N5,word,,which way; which direction; where,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?",4,6,false
+463,迚も,とても,N5,word,,very; awfully; exceedingly,「これはとてもおもしろそうだね」とひろしが言います。,"""This looks pretty interesting,"" Hiroshi says.",9,9,false
+464,何方,どなた,N5,word,,who,「どなたですか」「お母さんよ」,"""Who is it?"" ""It's your mother.""",4,6,false
+465,隣,となり,N5,word,,next (to); adjoining; adjacent,ジョーダンさんは彼の隣に座った。,Mr Jordan sat down beside him.,9,8,false
+466,何の,どの,N5,word,,which; what (way),あなたはどの学科が好きですか。,What subject do you like best?,4,6,true
+467,飛ぶ,とぶ,N5,word,,to fly; to soar; to jump,ヒューズが飛んだ。,A fuse has blown.,7,6,false
+468,止まる,とまる,N5,word,,"to stop (moving); to come to a stop; to stop (doing, working, being supplied)",あの木の枝に数羽の鳥がとまっている。,Some birds are sitting on the branch of that tree.,7,6,false
+469,友達,ともだち,N5,word,,friend; companion,メグは新しい友達をたくさん得た。,Meg acquired many new friends.,8,8,false
+470,土曜日,どようび,N5,word,,Saturday,私は土曜日からここにいます。,I've been here since Saturday.,8,8,false
+471,鳥,とり,N5,word,,bird; bird meat (esp. chicken meat); fowl,鳥は料理人がほどよく焼いた。,The fowls were well roasted by the cook.,9,6,false
+472,鶏肉,とりにく,N5,word,,chicken meat; fowl; poultry,鶏肉を３ポンド分ください。,I'd like three pounds of chicken.,10,8,false
+473,取る,とる,N5,word,,to take; to pick up; to grab,塩をとっていただけますか。,"Could you pass me the salt, please?",4,3,false
+474,撮る,とる,N5,word,,to take (a photograph); to record (audio or video); to film,この番組、ビデオに録っておいて。,Will you record this program on video for me?,9,8,false
+475,何れ,どれ,N5,word,,which (of three or more); well; now,あなたの鞄はどれですか。,Which is your bag?,4,6,true
+476,どんな,どんな,N5,word,,what kind of; what sort of; what,どんな所がお好きですか。,What kind of places do you like?,,,false
+477,無い,ない,N5,word,,nonexistent; not being (there); unowned,引退するつもりは毛頭ない。,I have no intention whatever of resigning.,4,3,false
+478,ナイフ,ナイフ,N5,word,,knife,すみません、ナイフを落としてしまいました。,"I'm sorry, I dropped my knife.",,,false
+479,中,なか,N5,word,,inside; interior; among,これらの商品の中から１つ選びなさい。,Choose one from among these products.,2,3,true
+480,長い,ながい,N5,word,,"long (distance, length); long (time); protracted",だんだん日が長くなっています。,The days are getting longer and longer.,2,3,true
+481,鳴く,なく,N5,word,,to make sound (of an animal); to call; to cry,羊は何て鳴くの？,What sound does a sheep make?,9,8,false
+482,無くす,なくす,N5,word,,to lose (something); to get rid of; to eliminate,彼女は新しい時計をなくした。,She lost her new watch.,4,3,false
+483,何故,なぜ,N5,word,,why; how; for what reason,あなたはなぜ働いているの。,How come you're still working?,8,8,false
+484,夏,なつ,N5,word,,summer,この夏最高の暑さだ。,It is the hottest this summer.,9,8,false
+485,夏休み,なつやすみ,N5,word,,summer vacation; summer holiday,この夏休みはどこかへ行くのですか。,Are you going away this summer?,10,8,false
+486,～など,～など,N5,grammar_pattern,suffix,et cetera,,,,,false
+487,七つ,ななつ,N5,word,,seven; seven years of age; four o'clock (old time system),海賊たちは７つの海を航海した。,The pirates sailed the seven seas.,4,6,true
+488,何,なに,N5,word,,what; you-know-what; that thing,今のアナウンスは何だったのですか。,What did the announcement just say?,4,6,true
+489,７日,なのか,N5,word,,7th day of the month; seven days,１月７日付けのお手紙、ありがとうございました。,Thank you very much for your letter of January 7th.,2,3,true
+490,名前,なまえ,N5,word,,name; given name; first name,あなたの名前はリストからはずされた。,Your name was dropped from the list.,4,6,true
+491,習う,ならう,N5,word,,to take lessons in; to be taught; to learn (from a teacher),車の運転を習っています。,I've been learning to drive.,9,6,false
+492,並ぶ,ならぶ,N5,word,,to line up; to stand in a line; to rival,彼は古今に並ぶ者のない偉大な政治家である。,He is the greatest statesman that ever lived.,9,8,false
+493,並べる,ならべる,N5,word,,to line up; to set up; to arrange in a line,メイドはテーブルにナイフとフォークを並べた。,The maid arranged the knives and forks on the table.,9,8,false
+494,成る,なる,N5,word,,to become; to get; to grow,あなたがいなくなるととても寂しくなります。,"When you go, I'll miss you very much.",4,5,false
+495,何～,なん～,N5,grammar_pattern,prefix,what sort of ~,,,,,false
+496,二,に,N5,word,,two; 2,その穴は直径二メートルです。,The hole is two meters across.,2,5,true
+497,賑やか,にぎやか,N5,word,,bustling; busy; crowded,私の家はにぎやかな通りに面しています。,My house faces a busy street.,9,9,false
+498,肉,にく,N5,word,,flesh; meat; flesh (of a fruit),その魚と肉を冷凍してください。,Please freeze the fish and meat.,9,6,false
+499,西,にし,N5,word,,west,列車は西へ走っていた。,The train was hurrying west.,7,6,true
+500,～日,～にち,N5,grammar_pattern,time,~ day of the month; for ~ days,,,,,false
+501,日曜日,にちようび,N5,word,,Sunday,その店は日曜日は閉まっている。,The shop is closed on Sundays.,6,7,false
+502,荷物,にもつ,N5,word,,luggage; baggage; package,彼は前もって荷物を送った。,He sent his luggage in advance.,7,5,false
+503,ニュース,ニュース,N5,word,,news,そのニュースに彼はびっくり仰天した。,The news took him by surprise.,,,false
+504,庭,にわ,N5,word,,garden; yard; courtyard,私たちの庭には２本の桜の木があります。,Our garden has two cherry trees.,9,8,false
+505,～人,～にん,N5,grammar_pattern,counter,counter for people,,,,,false
+506,脱ぐ,ぬぐ,N5,word,,"to take off (clothes, shoes, etc.); to undress",ここで靴を脱がなければなりませんか。,Do I have to take off my shoes here?,9,6,false
+507,温い,ぬるい,N5,word,,lukewarm; tepid; lenient,このコーヒーはぬるいです。,This coffee is not hot enough.,9,6,false
+508,ネクタイ,ネクタイ,N5,word,,tie; necktie,このネクタイはあなたのシャツによく似合ってますよ。,This tie goes with your shirt.,,,false
+509,猫,ねこ,N5,word,,"cat (esp. the domestic cat, Felis catus); feline; shamisen",あなたのサイトは、猫に興味のある人達にとって魅力的です。,Your site appeals to people who are interested in cats.,9,8,false
+510,寝る,ねる,N5,word,,to sleep (lying down); to go to bed; to lie in bed,寝る前に歯を磨きなさい。,Brush your teeth before going to bed.,9,6,false
+511,～年,～ねん,N5,grammar_pattern,time,~ years,,,,,false
+512,ノート,ノート,N5,word,,notebook; copy-book; exercise book,彼女は本の絵をノートに書き移した。,She transferred the picture in the book to her notebook.,,,false
+513,上る,のぼる,N5,word,,to ascend; to go up; to climb,あなたは、上れませんよ。,You cannot climb!,2,3,true
+514,飲み物,のみもの,N5,word,,drink; beverage,何か飲み物をいただけますか。,May I have something to drink?,7,5,false
+515,飲む,のむ,N5,word,,to drink; to swallow; to take (medicine),この薬を飲まなければ行けませんか。,Must I take this medicine?,9,6,false
+516,乗る,のる,N5,word,,"to get on (train, plane, bus, ship, etc.); to get in; to board",そんなに沢山パンに乗るんか？,You really put that much in the sandwich?,7,6,false
+517,歯,は,N5,word,,"tooth; teeth; tooth (of a comb, saw, etc.)",その赤ちゃんは歯が生えはじめている。,The baby is cutting his teeth.,9,6,false
+518,パーティー,パーティー,N5,word,,"party (social gathering); party (group of people participating in an activity, esp. mountain climbing); (political) party",パーティーでは誰がホストを勤めるのですか。,Who will host the party?,,,false
+519,はい,はい,N5,word,,yes; that is correct; understood,「もしもし、ブラウンさんですか」「はい、そうです」,"""Hello, is this Mrs. Brown?"" ""Yes, this is Mrs. Brown.""",,,false
+520,～杯,～はい,N5,grammar_pattern,counter,counter for cupfuls,,,,,false
+521,灰皿,はいざら,N5,word,,ashtray,その缶は灰皿の代わりになる。,The can will do for an ashtray.,10,9,false
+522,入る,はいる,N5,word,,to enter; to come in; to go in,梅雨に入った。,The rainy season has set in.,2,3,true
+523,葉書,はがき,N5,word,,postcard; memo; note,はがきにこの切手を貼って郵便箱に投函しなさい。,Put this stamp on the postcard and drop it in the mailbox.,7,5,false
+524,掃く,はく,N5,word,,to sweep; to brush; to clean,お前は床を掃きさえすればよい。,You have only to sweep the floor.,9,8,false
+525,箱,はこ,N5,word,,box; case; chest,その取っ手を右にねじると箱は開きます。,Twist that knob to the right and the box will open.,9,8,false
+526,橋,はし,N5,word,,bridge,あの橋は大変美しい。,That bridge is very beautiful.,7,8,false
+527,箸,はし,N5,word,,chopsticks,私達はじっと押し黙っておはしを使って食事をした。,We ate with chopsticks in restrained silence.,9,8,false
+528,始まる,はじまる,N5,word,,to begin; to start; to commence,その試合は何時に始まりますか。,What time does the game start?,7,8,false
+529,始め,はじめ,N5,word,,beginning; start; outset,会うは別れの始め。,To meet is to part.,7,8,false
+530,初めて,はじめて,N5,word,,for the first time; only after ... is it ...; only when ... do you ...,１６歳の時、初めてテニスをした。,"When I was sixteen, I played tennis for the first time.",7,6,false
+531,走る,はしる,N5,word,,to run; to run (of a vehicle); to drive,震えが背筋を走った。,A shiver ran down my spine.,7,6,false
+532,バス,バス,N5,word,,bus; bus,私の息子はいつもバスに乗ると酔うの。,My son always gets sick when he rides a bus.,,,false
+533,バター,バター,N5,word,,butter,彼女はバターを２ポンド買いました。,She bought two pounds of butter.,,,false
+534,２０歳,はたち,N5,word,,20 years old; twenty,彼女は二十歳だと言ったが、それは嘘だった。,"She said she was twenty years old, which was not true.",7,8,false
+535,働く,はたらく,N5,word,,to work; to labor; to labour,スイッチは時間通りに働かなかった。,The switch didn't work on time.,7,6,false
+536,八,はち,N5,word,,eight; 8,会は八時に解散した。,The meeting broke up at eight.,4,6,true
+537,２０日,はつか,N5,word,,20th day of the month; 20 days,私は二十日までに帰るつもりです。,I expect to be back by the 20th.,2,3,true
+538,花,はな,N5,word,,flower; blossom; bloom,私たちは梅の花で有名な水戸公園を見に行った。,"We visited Mito Park, which is famous for its plum blossoms.",7,5,false
+539,鼻,はな,N5,word,,nose,鼻が出ているよ。かみなさい。,Your nose is running. Blow it.,9,6,false
+540,話,はなし,N5,word,,talk; speech; chat,話を聞かせてくれ。,I want a full report though.,4,5,true
+541,話す,はなす,N5,word,,to talk; to speak; to converse,英語はカナダで話されている。,English is spoken in Canada.,4,5,true
+542,母,はは,N5,word,,mother,でもさ、母を連れて行かなくてはいけないんだ。,"But, I have to take my mother.",7,6,true
+543,早い,はやい,N5,word,,fast; quick; rapid,子供は成長が早い。,Children grow very quickly.,7,6,false
+544,早い,はやい,N5,word,,fast; quick; rapid,子供は成長が早い。,Children grow very quickly.,7,6,false
+545,春,はる,N5,word,,spring; springtime; New Year,多くの植物は春に花をつける。,Many plants bloom in the spring.,7,6,false
+546,張る,はる,N5,word,,to stick; to paste; to affix,クモがクモの巣を張るところを見たことがありますか。,Have you ever seen a spider spinning its web?,7,6,false
+547,晴れ,はれ,N5,word,,clear weather; fine weather; formal,その日は晴れだったので、私たちは泳ぎに行った。,"It was a fine day, so we went swimming.",9,8,false
+548,晴れる,はれる,N5,word,,to clear up; to clear away; to be sunny,明日は晴れるだろう。,It will be fine tomorrow.,9,8,false
+549,半,はん,N5,word,,half; semi-; partial,半時間したら彼はここに来るでしょう。,He will be here in half an hour.,7,6,true
+550,晩,ばん,N5,word,,evening; night; dinner,グロリアは断然その晩のピカ一の歌手であった。,Gloria was easily the best singer of that evening.,9,8,false
+551,～番,～ばん,N5,grammar_pattern,counter,~st; ~th best,,,,,false
+552,パン,パン,N5,word,,bread; (sweet) pastry; staff of life,私は今朝バターつきのパンを食べた。,I ate bread and butter this morning.,,,false
+553,ハンカチ,ハンカチ,N5,word,,handkerchief,このハンカチはいくらですか。,How much is this handkerchief?,,,false
+554,番号,ばんごう,N5,word,,number; series of digits,ええ、じゃあ私の電話番号教えるね。,OK. Let me give you my number.,8,6,false
+555,晩御飯,ばんごはん,N5,word,,dinner; evening meal,母は晩御飯の支度で忙しい。,Mother is busy cooking the dinner.,10,8,false
+556,半分,はんぶん,N5,word,,half,エミーはナプキンを半分に折りたたんだ。,Emmy folded the napkin in half.,5,6,true
+557,東,ひがし,N5,word,,east,名古屋は京都の東の方にある。,Nagoya is to the east of Kyoto.,4,6,true
+558,～匹,～ひき,N5,grammar_pattern,counter,counter for small animals,,,,,false
+559,引く,ひく,N5,word,,to pull; to tug; to lead (e.g. a horse),カーテンがゆっくり引かれた。,The curtains were drawn slowly.,4,5,false
+560,弾く,はじく,N5,word,,to flip; to snap; to flick,このレインコートは水を完全にはじく。,The raincoat sheds water perfectly.,9,6,false
+561,低い,ひくい,N5,word,,"low (rank, degree, value, content, quality, etc.); low (position); close to the ground",この机は私にはちょっと低い。,This desk is a little low for me.,9,6,false
+562,飛行機,ひこうき,N5,word,,airplane; aeroplane; plane,あなたは飛行機で旅行したことがありますか。,Have you ever traveled by air?,6,6,false
+563,左,ひだり,N5,word,,left; left-hand side; left hand,そのポールは左に傾いた。,The pole inclined to the left.,7,8,true
+564,人,ひと,N5,word,,person; someone; somebody,この人は画家だ！,This fellow is an artist!,2,2,true
+565,一つ,ひとつ,N5,word,,one; for one thing; only,一つには、私は貧しいし、それにまた忙しくもある。,"For one thing, I am poor; for another, I am busy.",2,2,true
+566,１月,いちがつ,N5,word,,January; first month of the lunar calendar,私は１９６８年の１月２日に生まれた。,I was born on January 2 in 1968.,2,5,true
+567,一人,ひとり,N5,word,,one person; being alone; being by oneself,私は一人の弟がいます。,I have one brother.,3,3,true
+568,暇,ひま,N5,word,,spare time; free time; leisure,今晩暇かな？,Are you free tonight?,9,8,false
+569,百,ひゃく,N5,word,,hundred; 100,彼は口座から百ドル下ろした。,He drew $100 from his account.,7,6,true
+570,病院,びょういん,N5,word,,hospital; clinic; doctor's office,この近くに病院はありますか。,Is there a hospital near here?,8,6,false
+571,病気,びょうき,N5,word,,"illness (usu. excluding minor ailments, e.g. common cold); disease; sickness",あなたの病気がよくなることを願っています。,I hope you'll get well soon.,5,5,false
+572,平仮名,ひらがな,N5,word,,"hiragana; cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)",ひらがなは書けますが、カタカナはまだ書けません。,"I can write hiragana, but I can't yet write katakana.",8,7,false
+573,昼,ひる,N5,word,,noon; midday; daytime,ケンは昼まで家にいるでしょう。,Ken will be at home until noon.,9,8,false
+574,昼ご飯,ひるごはん,N5,word,,lunch; midday meal,昼ご飯を食べに外に出ませんか。,How about going out for lunch?,10,8,false
+575,広い,ひろい,N5,word,,spacious; vast; wide,ジョンソン氏の部屋は広かった。,Mr Johnson's was a large room.,7,6,false
+576,フィルム,フィルム,N5,word,,film,このフィルムを現像してもらえますか。,Can I have this film developed?,,,false
+577,封筒,ふうとう,N5,word,,envelope,だれがこの封筒を破って開けたのか。,Who has torn the envelope open?,10,9,false
+578,プール,プール,N5,word,,"(swimming) pool; pool (cue sport); pooling (money, resources, etc.)",私はプールで泳ぐのは好きではない。,I don't like to swim in the pool.,,,false
+579,フォーク,フォーク,N5,word,,fork; forkball,その子はナイフとフォークをうまく使う。,The child handles a knife and fork well.,,,false
+580,吹く,ふく,N5,word,,to blow (of the wind); to blow (one's breath); to breathe out,木が芽をふいている。,The trees are shooting out buds.,9,8,false
+581,服,ふく,N5,word,,clothes (esp. Western clothes); clothing; dress,彼は濡れた服を火にあぶってかわかした。,He dried his wet clothes by the fire.,9,6,false
+582,二つ,ふたつ,N5,word,,two,２つの質問をしてもよいですか。,May I ask a couple of questions?,2,5,true
+583,豚肉,ぶたにく,N5,word,,pork,そんなわけでダチョウの肉は牛肉や豚肉の２倍以上の値段となる。,That's why ostrich meat costs more than twice as much as beef and pork.,10,8,false
+584,二人,ふたり,N5,word,,two persons; two people; pair,二人の男は刑務所から釈放された。,The two men were released from jail.,3,4,true
+585,２日,ふつか,N5,word,,2nd day of the month; two days,２日で３つの州を走破した。,We covered three states in two days.,2,3,true
+586,太い,ふとい,N5,word,,fat; thick; deep (of a voice),彼は太い首をしている。,He has a thick neck.,4,6,false
+587,冬,ふゆ,N5,word,,winter,まもなく冬だ。,It will be winter before long.,9,8,false
+588,下る,くだる,N5,word,,to descend; to go down; to come down,山を下ったところに学校がある。,There is a school down the mountain.,2,3,true
+589,古い,ふるい,N5,word,,old; aged; ancient,ケンが使っている机はもう古い。,The desk that Ken uses is old.,7,6,false
+590,～分,～ふん,N5,grammar_pattern,time,~ minutes,,,,,false
+591,文章,ぶんしょう,N5,word,,writing; composition; essay,彼の文章はとても主観的だ。,His writing is very subjective.,8,6,false
+592,頁,ページ,N5,word,,page; nth page; page ...,もう３ページ残っている。,I have three more pages to go.,9,9,false
+593,下手,しもて,N5,word,,lower part; foot; lower direction,そこでベス下手より登場！,"Now Beth enters, stage right!",3,4,false
+594,ベッド,ベッド,N5,word,,bed,どんなベッドでもないよりはよい。,Any bed is better than no bed.,,,false
+595,ペット,ペット,N5,word,,pet; trumpet,その人たちはココに新しいペットをあげようとしました。,They tried to give Coco a new pet.,,,false
+596,部屋,へや,N5,word,,room; chamber; apartment,マユコは部屋に入った。,Mayuko entered the room.,4,6,false
+597,辺,へん,N5,word,,area; vicinity; region,正方形には四つの辺がある。,A square has four sides.,9,8,false
+598,ペン,ペン,N5,word,,pen,ペンか鉛筆を持っていますか。,Do you have a pen or a pencil?,,,false
+599,勉強,べんきょう,N5,word,,study; diligence; working hard,学校ではどんな科目を勉強しますか。,What subjects do you study at school?,8,9,false
+600,便利,べんり,N5,word,,convenient; handy; useful,電話は便利なものである。,The telephone is a convenience.,9,6,false
+601,帽子,ぼうし,N5,word,,hat; cap; cap (move),この帽子は１０００円なら安い。,This hat is cheap at 1000 yen.,7,6,false
+602,ボールペン,ボールペン,N5,word,,ball-point pen,ボールペンで申込書に記入しなさい。,Fill out the form in ballpoint.,,,false
+603,外,そと,N5,word,,outside; exterior; the open (air),うちはうち、そとはそと。,"Our house, our rules.",4,3,true
+604,ポケット,ポケット,N5,word,,pocket,ポケットに何を持っていますか。,What do you have in your pocket?,,,false
+605,欲しい,ほしい,N5,word,,wanting (to have); desiring; wishing for,私は鉛筆をけずるナイフがほしい。,I want a knife to sharpen my pencil with.,9,8,false
+606,ポスト,ポスト,N5,word,,postbox; mailbox; mail box,いったんポストに入れたものは、郵便局の所轄になる。,"Once a thing is posted, it is in the care of the Post Office.",,,false
+607,細い,ほそい,N5,word,,thin; slender; fine,彼は太っているくせに声は細い。,His voice is thin even though he is fat.,7,5,false
+608,釦,ボタン,N5,word,,button (clothing); push-button; button,コートのボタンが取れてたんだ。,A button has come off my coat.,9,9,false
+609,ホテル,ホテル,N5,word,,hotel,あなたはこのホテルのお客ですか。,Are you staying at this hotel?,,,false
+610,元,もと,N5,word,,origin; source; beginning,やってしまったことは元に戻らない。,What is done cannot be undone.,7,6,false
+611,～本,～ほん,N5,grammar_pattern,counter,counter for long cylindrical things,,,,,false
+612,本棚,ほんだな,N5,word,,bookshelves; bookshelf; bookcase,この本棚は組み立てが簡単です。,This bookcase is easy to assemble.,7,7,false
+613,本当,ほんとう,N5,word,,truth; reality; actuality,その悪い知らせは残念ながら本当だ。,The bad news is unfortunately true.,4,5,false
+614,～枚,～まい,N5,grammar_pattern,counter,counter for flat things,,,,,false
+615,毎朝,まいあさ,N5,word,,every morning,私は毎朝六時に起きます。,I get up at six every morning.,8,8,false
+616,毎月,まいつき,N5,word,,every month; each month; monthly,私は両親には必ず毎月手紙を書きます。,I never fail to write to my parents every month.,7,7,true
+617,毎週,まいしゅう,N5,word,,every week,彼らは毎週日曜日に教会へ行く。,They go to church every Sunday.,10,9,false
+618,毎日,まいにち,N5,word,,every day; daily,その犬に毎日食べ物をやって下さい。,Please feed the dog every day.,7,6,true
+619,毎年,まいとし,N5,word,,every year; yearly; annually,彼は毎年軽井沢へ行く。,He goes to Karuizawa every year.,7,7,true
+620,毎晩,まいばん,N5,word,,every night,私は毎晩家にいます。,I am at home every evening.,10,9,false
+621,先,さき,N5,word,,point; tip; end,ここから先には行けません。,You cannot go any farther.,4,5,true
+622,～前,～まえ,N5,grammar_pattern,suffix,in front of ~,,,,,false
+623,曲がる,まがる,N5,word,,to bend; to curve; to warp,ネクタイが曲がってるよ。,Your tie is crooked.,9,6,false
+624,不味い,まずい,N5,word,,bad(-tasting); unpalatable; unsavoury,すき腹にまずいものなし。,Hunger is the best sauce.,5,6,false
+625,又,また,N5,word,,again; once more; once again,また会えて嬉しいよ。,Nice to see you again!,9,9,false
+626,未だ,まだ,N5,word,,still; as yet; only,私はまだその問題が解けない。,I haven't been able to solve the problem yet.,9,6,false
+627,町,まち,N5,word,,town; block; neighbourhood,楽隊が町をパレードした。,The band paraded the streets.,7,8,false
+628,待つ,まつ,N5,word,,to wait; to await; to look forward to,しばらく電話を切らずにお待ちください。,Please hold the line a moment.,7,6,false
+629,真っ直ぐ,まっすぐ,N5,word,,straight (ahead); direct; upright,あなたはきのう放課後まっすぐ帰宅しましたか。,Did you go straight home after school yesterday?,7,6,false
+630,燐寸,マッチ,N5,word,,match (for lighting a fire),硫黄はマッチを作るのに使われる。,Sulfur is used to make matches.,10,9,false
+631,窓,まど,N5,word,,window,窓を開けっぱなしにしておいたの？,Did you leave the window open?,9,8,false
+632,丸い,まるい,N5,word,,round; circular; spherical,コロンブスは地球が丸いと信じていた。,Columbus believed that the earth was round.,9,6,false
+633,万,まん,N5,word,,"10,000; ten thousand; myriad",４０万ガロンの石油がパイプラインから溢れ出た。,"400,000 gallons of oil have spilled out of the pipeline.",4,6,true
+634,万年筆,まんねんひつ,N5,word,,fountain pen,新しい万年筆をなくしてしまった。,I have lost my new fountain pen.,7,8,false
+635,磨く,みがく,N5,word,,to polish; to shine; to burnish,弟は銀の食器類を磨いた。,My brother polished the silver.,9,8,false
+636,右,みぎ,N5,word,,right; right-hand side; right hand,２つ目の角を右に曲がりなさい。,Turn right at the second corner.,7,8,true
+637,短い,みじかい,N5,word,,short; brief,あの犬はしっぽが短い。,That dog has a short tail.,9,6,false
+638,水,みず,N5,word,,water (esp. cool or cold); fluid (esp. in an animal tissue); liquid,水を加えてペースト状になるまでかき回しなさい。,Add water and stir to a paste.,4,3,true
+639,店,みせ,N5,word,,store; shop; establishment,あの店はサービスが良い。,That store gives good service.,7,6,false
+640,見せる,みせる,N5,word,,to show; to display; to make (something or someone) look ...,取り繕うように、笑ってみせる。,She smiled to smooth things over.,2,3,true
+641,道,みち,N5,word,,road; path; street,道は急斜面をジグザグにのぼっていた。,The path zigzagged up the steep slope.,4,3,false
+642,３日,みっか,N5,word,,3rd day of the month; three days,１０月３日です。,It's the third of October.,2,3,true
+643,三つ,みっつ,N5,word,,three; three years of age,ボーイさん、コーヒー３つください。,"Waiter, three coffees, please.",2,3,true
+644,緑,みどり,N5,word,,green; greenery; verdure,東京ミッドタウンは緑がいっぱい！,There's a lot of greenery in Tokyo Midtown!,9,8,false
+645,皆さん,みなさん,N5,word,,all; everyone; everybody,皆さんじっとしていてください。,"Could you keep still, everyone?",9,9,false
+646,南,みなみ,N5,word,,south,フランスは英国の南にある。,France is to the south of England.,7,6,true
+647,耳,みみ,N5,word,,"ear; hearing; ear (for music, etc.)",私は受話器を耳に当てた。,I put the receiver to my ear.,9,6,false
+648,見る,みる,N5,word,,to see; to look; to watch,１０ページの５行目をみなさい。,Let's begin with the fifth line on page 10.,2,3,true
+649,皆,みな,N5,word,,everyone; everybody; all,彼女はみんなに愛されている。,She is loved by everybody.,9,9,false
+650,６日,むいか,N5,word,,6th day of the month; six days,４月５日か６日に会っていただけませんか。,Would it be possible to set up a meeting with us on April 5 or 6?,2,3,true
+651,向こう,むこう,N5,word,,opposite side; other side; over there,向こうの思う壷だぞ。,You will play into their hands.,4,6,false
+652,難しい,むずかしい,N5,word,,difficult; hard; troublesome,あの老人は食べ物に難しい。,That old man is a fussy eater.,7,6,false
+653,六つ,むっつ,N5,word,,six; six years of age; six o'clock (old time system),６つの先端技術の会社がその県に支社を設立した。,Six high-tech companies set up branch offices in that prefecture.,4,6,true
+654,村,むら,N5,word,,village,町は村よりも大きい。,Towns are larger than villages.,4,8,false
+655,目,め,N5,word,,eye; eyeball; eyesight,彼女はきれいな目をしている。,She has beautiful eyes.,2,3,false
+656,米,メートル,N5,word,,metre (unit of length); meter; meter,１マイルは約１６００メートルにあたる。,"A mile is equal to about 1,600 meters.",7,6,false
+657,眼鏡,メガネ,N5,word,,glasses; eyeglasses; spectacles,私はメガネがなくては読めない。,I cannot read without glasses.,10,7,false
+658,もう,もう,N5,word,,already; yet; by now,もう〜、なにやってんだよ。,"Jeez, what're you up to?",,,false
+659,木曜日,もくようび,N5,word,,Thursday,その週刊誌は木曜日に出る。,The weekly appears on Thursday.,7,8,false
+660,もしもし,もしもし,N5,word,,hello (e.g. on phone); excuse me! (when calling out to someone),もしもし、後藤さんのお宅ですか。,Hello. Is this the Gotos' residence?,,,false
+661,持つ,もつ,N5,word,,to hold (in one's hand); to take; to carry,コートを持ちましょうか。,Shall I carry your coat?,4,6,false
+662,もっと,もっと,N5,word,,(some) more; even more; longer,あなたはもっと理性的であるべきだ。,You should be more reasonable.,,,false
+663,物,もの,N5,word,,thing; object; article,遠まわしに物を言うな。,Don't beat around the bush.,2,2,false
+664,戸,と,N5,word,,door (esp. Japanese-style); shutter; window shutter,誰かが戸をやかましくノックしている。,Someone is knocking loudly at the door.,7,6,false
+665,問題,もんだい,N5,word,,"question (e.g. on a test); problem; problem (e.g. societal, political)",あなたはどのようにしてその問題を解いたのですか。,How did you solve the problem?,5,7,false
+666,～屋,～や,N5,grammar_pattern,suffix,~ shop,,,,,false
+667,八百屋,やおや,N5,word,,greengrocer; fruit and vegetable shop; jack of all trades,その八百屋は客にとても親切だ。,The greengrocer is very kind to his customers.,7,8,false
+668,野菜,やさい,N5,word,,vegetable; marijuana; cannabis,その店は野菜を売っている。,The store deals in vegetables.,8,7,false
+669,易しい,やさしい,N5,word,,easy; plain; simple,この仕事は決してやさしくない。,This work is by no means easy.,9,6,false
+670,安い,やすい,N5,word,,cheap; inexpensive; calm,これはバーゲン商品なので定価よりやすくなっているんじゃないですか。,Aren't you selling this at a discount price?,4,5,false
+671,休み,やすみ,N5,word,,rest; recess; respite,今度の休みはどこへ行くの？,Where are you going on your vacation?,9,6,true
+672,休む,やすむ,N5,word,,to be absent; to take a day off; to rest,父はまだ休んでいる。,Father is still in bed.,9,6,true
+673,八つ,やっつ,N5,word,,eight; eight years of age; two o'clock (old time system),そこに八つの小石があった。,There were eight pebbles there.,4,6,true
+674,山,やま,N5,word,,mountain; hill; mine,うまくあの先生のやまを当てたわね。,You've sure got the teacher's number.,4,5,true
+675,遣る,やる,N5,word,,to do; to undertake; to perform,５ドルをやる。,Here's $5.,9,6,false
+676,夕方,ゆうがた,N5,word,,early evening (usu. from 3pm to 6pm); dusk,ひょっとすると夕方前に雨になるかもしれない。,It might rain before evening.,7,6,false
+677,夕飯,ゆうはん,N5,word,,evening meal; dinner; supper,私は昨日夕飯を作った。,I cooked supper last night.,10,8,false
+678,郵便局,ゆうびんきょく,N5,word,,post office,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?",10,9,false
+679,昨夜,ゆうべ,N5,word,,last night; yesterday evening,昨夜はよく眠れましたか。,Did you have a good sleep last night?,9,9,false
+680,有名,ゆうめい,N5,word,,famous; well-known,これは芭蕉の非常に有名な俳句です。,This is a very famous haiku by Basho.,7,6,false
+681,雪,ゆき,N5,word,,snow; snowfall,たぶん、明日は雪が降るだろう。,Probably it will snow tomorrow.,9,6,false
+682,ゆっくりと,ゆっくりと,N5,word,,slowly; at ease,ドアがゆっくりと開いた。,The door opened slowly.,,,false
+683,８日,ようか,N5,word,,8th day of the month; eight days,学校は４月８日から始まります。,School begins on April 8.,2,3,true
+684,洋服,ようふく,N5,word,,Western-style clothes (cf. traditional Japanese clothes),お前に新しい洋服を作ってあげよう。,I will make a new suit for you.,10,7,false
+685,欲,よく,N5,word,,greed; craving; desire,彼は欲の少ない人だ。,He is a man of few wants.,9,8,false
+686,横,よこ,N5,word,,horizontal (as opposed to vertical); side-to-side (as opposed to front-to-back); width,家の横はつたで覆われていた。,The side of the house was covered with ivy.,7,6,false
+687,４日,よっか,N5,word,,4th day of the month; four days,長くても４日しか待てませんよ。,I can wait four days at the longest.,2,3,true
+688,四つ,よっつ,N5,word,,four; 4; four years of age,この国は季節が４つあります。,This country has four seasons.,4,6,true
+689,呼ぶ,よぶ,N5,word,,to call out (to); to call; to invoke,あなたをケパと呼ぶことにします。,You will be called Cephas.,7,6,false
+690,読む,よむ,N5,word,,to read; to recite (e.g. a sutra); to chant,ミルトンの作品を読んだことがありますか。,Have you ever read Milton's works?,7,6,true
+691,夜,よる,N5,word,,night; evening; dinner,あなたは夜よく寝れませんか。,Don't you sleep well at night?,7,6,false
+692,弱い,よわい,N5,word,,weak; frail; delicate,それを言われると弱いなあ。,That sure puts me on the spot.,9,6,false
+693,来月,らいげつ,N5,word,,next month,来月フランスの大統領が来日する予定だ。,The French president is to visit Japan next month.,4,6,true
+694,来週,らいしゅう,N5,word,,next week,来週ヨーロッパへ行くつもりなんです。,I'm going to Europe next week.,8,7,false
+695,来年,らいねん,N5,word,,next year,健は来年で１５歳になります。,Ken will be fifteen next year.,4,6,true
+696,ラジオ,ラジオ,N5,word,,radio,そのニュースはラジオで聞いたよ。,I heard the news on the radio.,,,false
+697,ラジオカセ,ラジオカセ,N5,word,,radio cassette player,ラジオカセが壊れた,The radio cassette player is broken,,,false
+698,立派,りっぱ,N5,word,,splendid; fine; handsome,私たちの学校には立派な図書館があります。,We have a nice school library.,5,6,false
+699,留学生,りゅうがくせい,N5,word,,overseas student; exchange student,３人の中国人留学生がその大学に入学が許された。,Three Chinese students were admitted to the college.,6,5,false
+700,両親,りょうしん,N5,word,,parents; both parents,あなたを私の両親に紹介したい。,I want you to meet my parents.,7,7,false
+701,料理,りょうり,N5,word,,cooking; cookery; cuisine,これらのりんごは料理用にもってこいだ。,These apples are good cookers.,7,5,false
+702,旅行,りょこう,N5,word,,travel; trip; journey,いつ旅行においでになりますか。,When will you go on a journey?,7,6,false
+703,０,ゼロ,N5,word,,zero; 0; nought,ゼロという概念はヒンドゥー文化に由来している。,The concept of zero sprang from the Hindu culture.,,,false
+704,冷蔵庫,れいぞうこ,N5,word,,refrigerator; fridge,うちの冷蔵庫は故障している。,Our refrigerator is out of order.,10,9,false
+705,レコード,レコード,N5,word,,(phonograph) record; record (esp. in sports); record (data structure),ＣＤはすっかりレコードに取って代わった。,Compact discs have entirely taken the place of phonograph records.,,,false
+706,レストラン,レストラン,N5,word,,restaurant (esp. Western-style),いいレストランをご存知でしょうか。,Do you know a good restaurant?,,,false
+707,練習,れんしゅう,N5,word,,practice; training; drill,あなたはいつピアノの練習をしますか。,When do you practice the piano?,10,8,false
+708,廊下,ろうか,N5,word,,corridor; hallway; passageway,「学園の廊下で、濃厚なキスシーン・・・聞いたぞ聞いたぞ」「濃厚じゃなーい！話に尾ひれ付いてるって・・・」,"""A passionate kiss scene in a school corridor ... I've heard all about it!"" ""It wasn't passionate! That's an exaggeration...""",7,7,false
+709,六,ろく,N5,word,,six; 6,私は毎朝六時に起きます。,I get up at six every morning.,4,6,true
+710,Ｙシャツ,ワイシャツ,N5,word,,(formal) shirt; dress shirt; business shirt,このワイシャツは首まわりが合わない。,This shirt doesn't fit me round the neck.,,,false
+711,若い,わかい,N5,word,,young; youthful; immature,「彼女は若いですか」「はい」,"""Is she young?"" ""Yes, she is.""",7,6,false
+712,分かる,わかる,N5,word,,to understand; to comprehend; to grasp,彼が有名な人物だというのがわかります。,I understand that he's something of a famous personality.,2,3,true
+713,忘れる,わすれる,N5,word,,to forget; to leave carelessly; to be forgetful of,トムを忘れるな。,Don't forget Tom.,9,8,false
+714,私,わたし,N5,word,,I; me,騒がしいホームで誰かが私の名前を呼んでいるのが聞こえた。,I could hear someone calling my name on the noisy platform.,2,6,false
+715,私,わたし,N5,word,,I; me,騒がしいホームで誰かが私の名前を呼んでいるのが聞こえた。,I could hear someone calling my name on the noisy platform.,2,6,false
+716,渡す,わたす,N5,word,,to ferry across (e.g. a river); to carry across; to traverse,わたしを向こう側へわたしてください。,Please take me over to the other side.,7,6,false
+717,渡る,わたる,N5,word,,to cross over; to go across; to extend,橋は安全です。車でわたれます。,The bridge is safe; you can drive across.,7,6,false
+718,悪い,わるい,N5,word,,bad; poor; undesirable,これは悪い話ではないでしょう？,"This isn't an unappealing proposition, is it?",7,5,false
